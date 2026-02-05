@@ -21,6 +21,6 @@ The objective in this project is to analyze how unemployment rates in California
 
 Tools and Technologies: 
 - Python
-- Visual Studio Code
+- Jupyter Notebook
 - GitHub
   
