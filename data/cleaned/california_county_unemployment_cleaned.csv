@@ -1,0 +1,2031 @@
+area_name,area_type,year,month,seasonally_adjusted(y/n),status,labor_force,employment,unemployment,unemployment_rate
+Alameda County,County,1990,Annual,N,Final,678000,650600,27500,4.0
+Alameda County,County,1991,Annual,N,Final,672500,635600,36900,5.5
+Alameda County,County,1992,Annual,N,Final,677000,632300,44800,6.6
+Alameda County,County,1993,Annual,N,Final,677300,632000,45300,6.7
+Alameda County,County,1994,Annual,N,Final,679000,636900,42100,6.2
+Alameda County,County,1995,Annual,N,Final,676000,637200,38900,5.8
+Alameda County,County,1996,Annual,N,Final,677700,643100,34600,5.1
+Alameda County,County,1997,Annual,N,Final,693300,662100,31100,4.5
+Alameda County,County,1998,Annual,N,Final,703300,674200,29200,4.1
+Alameda County,County,1999,Annual,N,Final,714400,689400,25000,3.5
+Alameda County,County,2000,Annual,N,Final,769700,742200,27500,3.6
+Alameda County,County,2001,Annual,N,Final,778700,741200,37500,4.8
+Alameda County,County,2002,Annual,N,Final,773300,721100,52200,6.8
+Alameda County,County,2003,Annual,N,Final,756900,704500,52400,6.9
+Alameda County,County,2004,Annual,N,Final,744400,700800,43600,5.9
+Alameda County,County,2005,Annual,N,Final,738700,701100,37600,5.1
+Alameda County,County,2006,Annual,N,Final,739700,707000,32700,4.4
+Alameda County,County,2007,Annual,N,Final,752600,717500,35100,4.7
+Alameda County,County,2008,Annual,N,Final,764200,716800,47400,6.2
+Alameda County,County,2009,Annual,N,Final,770200,688400,81800,10.6
+Alameda County,County,2010,Annual,N,Final,783100,697000,86100,11.0
+Alameda County,County,2011,Annual,N,Final,783600,704600,79000,10.1
+Alameda County,County,2012,Annual,N,Final,796100,726700,69400,8.7
+Alameda County,County,2013,Annual,N,Final,800600,742100,58500,7.3
+Alameda County,County,2014,Annual,N,Final,807200,759600,47600,5.9
+Alameda County,County,2015,Annual,N,Final,819400,780300,39000,4.8
+Alameda County,County,2016,Annual,N,Final,878300,842200,36100,4.1
+Alameda County,County,2017,Annual,N,Final,885800,854500,31300,3.5
+Alameda County,County,2018,Annual,N,Final,889000,863000,25900,2.9
+Alameda County,County,2019,Annual,N,Final,889600,864400,25200,2.8
+Alameda County,County,2020,Annual,N,Final,860300,787400,73000,8.5
+Alameda County,County,2021,Annual,N,Final,846500,796900,49600,5.9
+Alameda County,County,2022,Annual,N,Final,856600,829100,27500,3.2
+Alameda County,County,2023,Annual,N,Final,866300,833200,33100,3.8
+Alameda County,County,2024,Annual,N,Final,866300,827700,38600,4.5
+Alpine County,County,1990,Annual,N,Final,380,340,40,9.6
+Alpine County,County,1991,Annual,N,Final,360,310,50,13.4
+Alpine County,County,1992,Annual,N,Final,350,290,60,16.7
+Alpine County,County,1993,Annual,N,Final,360,310,50,13.1
+Alpine County,County,1994,Annual,N,Final,450,400,50,10.3
+Alpine County,County,1995,Annual,N,Final,480,430,50,10.6
+Alpine County,County,1996,Annual,N,Final,490,440,50,10.0
+Alpine County,County,1997,Annual,N,Final,500,450,50,9.5
+Alpine County,County,1998,Annual,N,Final,480,440,50,9.7
+Alpine County,County,1999,Annual,N,Final,490,450,50,9.3
+Alpine County,County,2000,Annual,N,Final,560,520,30,6.3
+Alpine County,County,2001,Annual,N,Final,570,530,40,7.3
+Alpine County,County,2002,Annual,N,Final,560,520,40,7.6
+Alpine County,County,2003,Annual,N,Final,560,510,50,8.5
+Alpine County,County,2004,Annual,N,Final,540,490,40,8.0
+Alpine County,County,2005,Annual,N,Final,530,490,40,8.0
+Alpine County,County,2006,Annual,N,Final,490,450,30,6.4
+Alpine County,County,2007,Annual,N,Final,500,460,40,7.8
+Alpine County,County,2008,Annual,N,Final,470,420,50,10.4
+Alpine County,County,2009,Annual,N,Final,450,390,70,14.6
+Alpine County,County,2010,Annual,N,Final,540,470,70,12.9
+Alpine County,County,2011,Annual,N,Final,590,520,70,12.6
+Alpine County,County,2012,Annual,N,Final,540,480,60,11.1
+Alpine County,County,2013,Annual,N,Final,520,470,50,9.8
+Alpine County,County,2014,Annual,N,Final,510,470,40,8.3
+Alpine County,County,2015,Annual,N,Final,550,510,40,7.3
+Alpine County,County,2016,Annual,N,Final,420,380,40,8.6
+Alpine County,County,2017,Annual,N,Final,410,380,30,8.5
+Alpine County,County,2018,Annual,N,Final,410,380,30,6.4
+Alpine County,County,2019,Annual,N,Final,400,370,30,7.2
+Alpine County,County,2020,Annual,N,Final,380,320,60,15.6
+Alpine County,County,2021,Annual,N,Final,380,340,40,11.5
+Alpine County,County,2022,Annual,N,Final,360,330,30,8.1
+Alpine County,County,2023,Annual,N,Final,420,380,30,8.1
+Alpine County,County,2024,Annual,N,Final,460,430,40,7.8
+Amador County,County,1990,Annual,N,Final,11470,10870,590,5.2
+Amador County,County,1991,Annual,N,Final,12000,11150,840,7.0
+Amador County,County,1992,Annual,N,Final,12710,11540,1180,9.3
+Amador County,County,1993,Annual,N,Final,12820,11620,1190,9.3
+Amador County,County,1994,Annual,N,Final,12720,11680,1050,8.2
+Amador County,County,1995,Annual,N,Final,13070,12020,1050,8.0
+Amador County,County,1996,Annual,N,Final,13220,12320,900,6.8
+Amador County,County,1997,Annual,N,Final,13190,12380,810,6.2
+Amador County,County,1998,Annual,N,Final,13310,12580,730,5.5
+Amador County,County,1999,Annual,N,Final,13530,12900,630,4.7
+Amador County,County,2000,Annual,N,Final,15280,14500,790,5.1
+Amador County,County,2001,Annual,N,Final,16150,15330,820,5.1
+Amador County,County,2002,Annual,N,Final,16550,15590,960,5.8
+Amador County,County,2003,Annual,N,Final,16440,15420,1020,6.2
+Amador County,County,2004,Annual,N,Final,16970,15990,980,5.8
+Amador County,County,2005,Annual,N,Final,17300,16340,970,5.6
+Amador County,County,2006,Annual,N,Final,17370,16450,930,5.3
+Amador County,County,2007,Annual,N,Final,17880,16850,1030,5.8
+Amador County,County,2008,Annual,N,Final,17980,16600,1380,7.7
+Amador County,County,2009,Annual,N,Final,18040,15910,2130,11.8
+Amador County,County,2010,Annual,N,Final,15520,13320,2200,14.2
+Amador County,County,2011,Annual,N,Final,15040,12990,2050,13.6
+Amador County,County,2012,Annual,N,Final,14630,12830,1800,12.3
+Amador County,County,2013,Annual,N,Final,14410,12910,1500,10.4
+Amador County,County,2014,Annual,N,Final,14340,13130,1210,8.4
+Amador County,County,2015,Annual,N,Final,14320,13370,950,6.6
+Amador County,County,2016,Annual,N,Final,14690,13800,900,6.1
+Amador County,County,2017,Annual,N,Final,14860,14100,750,5.1
+Amador County,County,2018,Annual,N,Final,14830,14210,610,4.1
+Amador County,County,2019,Annual,N,Final,14940,14350,590,4.0
+Amador County,County,2020,Annual,N,Final,14570,13210,1370,9.4
+Amador County,County,2021,Annual,N,Final,14540,13510,1030,7.1
+Amador County,County,2022,Annual,N,Final,14480,13820,660,4.6
+Amador County,County,2023,Annual,N,Final,14750,14000,760,5.1
+Amador County,County,2024,Annual,N,Final,14950,14130,820,5.5
+Butte County,County,1990,Annual,N,Final,78900,72200,6600,8.4
+Butte County,County,1991,Annual,N,Final,79400,71600,7800,9.9
+Butte County,County,1992,Annual,N,Final,82000,72200,9800,11.9
+Butte County,County,1993,Annual,N,Final,82500,72600,9900,12.0
+Butte County,County,1994,Annual,N,Final,82800,74200,8600,10.4
+Butte County,County,1995,Annual,N,Final,82200,74000,8200,10.0
+Butte County,County,1996,Annual,N,Final,82600,75100,7600,9.2
+Butte County,County,1997,Annual,N,Final,83900,76600,7300,8.7
+Butte County,County,1998,Annual,N,Final,85100,78000,7100,8.4
+Butte County,County,1999,Annual,N,Final,85600,79700,5900,6.9
+Butte County,County,2000,Annual,N,Final,93200,87500,5700,6.2
+Butte County,County,2001,Annual,N,Final,95200,88900,6300,6.6
+Butte County,County,2002,Annual,N,Final,97300,90100,7300,7.4
+Butte County,County,2003,Annual,N,Final,98600,91100,7600,7.7
+Butte County,County,2004,Annual,N,Final,97800,90600,7200,7.4
+Butte County,County,2005,Annual,N,Final,98900,92200,6700,6.7
+Butte County,County,2006,Annual,N,Final,100600,94300,6200,6.2
+Butte County,County,2007,Annual,N,Final,102200,95500,6800,6.6
+Butte County,County,2008,Annual,N,Final,103900,95100,8800,8.4
+Butte County,County,2009,Annual,N,Final,105100,91700,13400,12.7
+Butte County,County,2010,Annual,N,Final,102700,88300,14400,14.0
+Butte County,County,2011,Annual,N,Final,100300,86500,13700,13.7
+Butte County,County,2012,Annual,N,Final,100700,88400,12300,12.2
+Butte County,County,2013,Annual,N,Final,101500,90900,10600,10.4
+Butte County,County,2014,Annual,N,Final,101200,92300,8900,8.8
+Butte County,County,2015,Annual,N,Final,101100,93800,7300,7.2
+Butte County,County,2016,Annual,N,Final,100000,93200,6700,6.7
+Butte County,County,2017,Annual,N,Final,100300,94400,5900,5.9
+Butte County,County,2018,Annual,N,Final,99900,94800,5100,5.1
+Butte County,County,2019,Annual,N,Final,96200,91200,5000,5.2
+Butte County,County,2020,Annual,N,Final,91500,82800,8700,9.5
+Butte County,County,2021,Annual,N,Final,90100,83900,6200,6.9
+Butte County,County,2022,Annual,N,Final,89900,85800,4100,4.6
+Butte County,County,2023,Annual,N,Final,90800,86000,4700,5.2
+Butte County,County,2024,Annual,N,Final,91500,86100,5400,5.9
+Calaveras County,County,1990,Annual,N,Final,13460,12540,920,6.8
+Calaveras County,County,1991,Annual,N,Final,13990,12670,1310,9.4
+Calaveras County,County,1992,Annual,N,Final,15030,13220,1820,12.1
+Calaveras County,County,1993,Annual,N,Final,14940,13120,1810,12.1
+Calaveras County,County,1994,Annual,N,Final,14630,12970,1650,11.3
+Calaveras County,County,1995,Annual,N,Final,14090,12530,1560,11.1
+Calaveras County,County,1996,Annual,N,Final,14070,12740,1320,9.4
+Calaveras County,County,1997,Annual,N,Final,14040,12750,1280,9.1
+Calaveras County,County,1998,Annual,N,Final,14130,12880,1250,8.8
+Calaveras County,County,1999,Annual,N,Final,14470,13450,1020,7.0
+Calaveras County,County,2000,Annual,N,Final,18160,17160,1000,5.5
+Calaveras County,County,2001,Annual,N,Final,19050,18000,1050,5.5
+Calaveras County,County,2002,Annual,N,Final,19730,18440,1290,6.5
+Calaveras County,County,2003,Annual,N,Final,19920,18440,1480,7.4
+Calaveras County,County,2004,Annual,N,Final,20030,18670,1360,6.8
+Calaveras County,County,2005,Annual,N,Final,20650,19370,1290,6.2
+Calaveras County,County,2006,Annual,N,Final,20760,19550,1210,5.8
+Calaveras County,County,2007,Annual,N,Final,20930,19590,1330,6.4
+Calaveras County,County,2008,Annual,N,Final,20830,19030,1810,8.7
+Calaveras County,County,2009,Annual,N,Final,20600,17710,2900,14.1
+Calaveras County,County,2010,Annual,N,Final,21040,17970,3070,14.6
+Calaveras County,County,2011,Annual,N,Final,20590,17700,2890,14.0
+Calaveras County,County,2012,Annual,N,Final,20150,17650,2500,12.4
+Calaveras County,County,2013,Annual,N,Final,20200,18180,2030,10.0
+Calaveras County,County,2014,Annual,N,Final,20230,18590,1640,8.1
+Calaveras County,County,2015,Annual,N,Final,20560,19240,1320,6.4
+Calaveras County,County,2016,Annual,N,Final,16290,15110,1180,7.3
+Calaveras County,County,2017,Annual,N,Final,16420,15430,1000,6.1
+Calaveras County,County,2018,Annual,N,Final,16510,15660,850,5.2
+Calaveras County,County,2019,Annual,N,Final,16630,15820,820,4.9
+Calaveras County,County,2020,Annual,N,Final,16900,15250,1650,9.8
+Calaveras County,County,2021,Annual,N,Final,17040,15800,1240,7.3
+Calaveras County,County,2022,Annual,N,Final,17470,16650,820,4.7
+Calaveras County,County,2023,Annual,N,Final,17750,16830,920,5.2
+Calaveras County,County,2024,Annual,N,Final,17580,16520,1060,6.0
+Colusa County,County,1990,Annual,N,Final,8010,6870,1150,14.3
+Colusa County,County,1991,Annual,N,Final,8110,6640,1470,18.1
+Colusa County,County,1992,Annual,N,Final,8230,6450,1790,21.7
+Colusa County,County,1993,Annual,N,Final,8470,6630,1840,21.7
+Colusa County,County,1994,Annual,N,Final,8200,6630,1570,19.2
+Colusa County,County,1995,Annual,N,Final,8550,6860,1690,19.8
+Colusa County,County,1996,Annual,N,Final,8610,6880,1720,20.0
+Colusa County,County,1997,Annual,N,Final,9100,7370,1720,19.0
+Colusa County,County,1998,Annual,N,Final,8830,7060,1780,20.1
+Colusa County,County,1999,Annual,N,Final,8720,7330,1400,16.0
+Colusa County,County,2000,Annual,N,Final,9270,8200,1060,11.5
+Colusa County,County,2001,Annual,N,Final,9140,7960,1170,12.9
+Colusa County,County,2002,Annual,N,Final,9430,8110,1310,13.9
+Colusa County,County,2003,Annual,N,Final,9480,8100,1370,14.5
+Colusa County,County,2004,Annual,N,Final,9550,8250,1300,13.6
+Colusa County,County,2005,Annual,N,Final,9940,8680,1260,12.7
+Colusa County,County,2006,Annual,N,Final,9990,8770,1220,12.2
+Colusa County,County,2007,Annual,N,Final,10310,9110,1200,11.7
+Colusa County,County,2008,Annual,N,Final,10600,9140,1460,13.8
+Colusa County,County,2009,Annual,N,Final,11690,9570,2120,18.2
+Colusa County,County,2010,Annual,N,Final,11550,9120,2430,21.0
+Colusa County,County,2011,Annual,N,Final,11330,8920,2410,21.3
+Colusa County,County,2012,Annual,N,Final,11250,8910,2340,20.8
+Colusa County,County,2013,Annual,N,Final,11270,9120,2150,19.1
+Colusa County,County,2014,Annual,N,Final,11090,9140,1950,17.6
+Colusa County,County,2015,Annual,N,Final,11050,9350,1700,15.4
+Colusa County,County,2016,Annual,N,Final,11270,9560,1710,15.2
+Colusa County,County,2017,Annual,N,Final,11210,9660,1550,13.8
+Colusa County,County,2018,Annual,N,Final,11240,9800,1430,12.8
+Colusa County,County,2019,Annual,N,Final,11390,9970,1420,12.5
+Colusa County,County,2020,Annual,N,Final,11000,9250,1740,15.9
+Colusa County,County,2021,Annual,N,Final,11020,9680,1340,12.2
+Colusa County,County,2022,Annual,N,Final,10630,9430,1210,11.3
+Colusa County,County,2023,Annual,N,Final,11080,9710,1370,12.4
+Colusa County,County,2024,Annual,N,Final,11290,9820,1470,13.0
+Contra Costa County,County,1990,Annual,N,Final,435700,418200,17500,4.0
+Contra Costa County,County,1991,Annual,N,Final,435000,411000,24000,5.5
+Contra Costa County,County,1992,Annual,N,Final,442000,412800,29200,6.6
+Contra Costa County,County,1993,Annual,N,Final,442000,412600,29300,6.6
+Contra Costa County,County,1994,Annual,N,Final,451200,423000,28200,6.3
+Contra Costa County,County,1995,Annual,N,Final,452100,426200,25900,5.7
+Contra Costa County,County,1996,Annual,N,Final,457400,434400,23000,5.0
+Contra Costa County,County,1997,Annual,N,Final,469000,449300,19800,4.2
+Contra Costa County,County,1998,Annual,N,Final,476900,459600,17300,3.6
+Contra Costa County,County,1999,Annual,N,Final,486400,471500,14900,3.1
+Contra Costa County,County,2000,Annual,N,Final,501400,483800,17600,3.5
+Contra Costa County,County,2001,Annual,N,Final,508800,488100,20700,4.1
+Contra Costa County,County,2002,Annual,N,Final,512100,482600,29400,5.7
+Contra Costa County,County,2003,Annual,N,Final,510100,478700,31400,6.2
+Contra Costa County,County,2004,Annual,N,Final,509700,482000,27600,5.4
+Contra Costa County,County,2005,Annual,N,Final,513000,488200,24800,4.8
+Contra Costa County,County,2006,Annual,N,Final,514500,492600,22000,4.3
+Contra Costa County,County,2007,Annual,N,Final,519400,495300,24200,4.7
+Contra Costa County,County,2008,Annual,N,Final,529100,496200,32900,6.2
+Contra Costa County,County,2009,Annual,N,Final,531200,476400,54800,10.3
+Contra Costa County,County,2010,Annual,N,Final,526000,467800,58200,11.1
+Contra Costa County,County,2011,Annual,N,Final,527400,473100,54300,10.3
+Contra Costa County,County,2012,Annual,N,Final,534300,486300,48000,9.0
+Contra Costa County,County,2013,Annual,N,Final,536500,495900,40700,7.6
+Contra Costa County,County,2014,Annual,N,Final,539000,505300,33700,6.3
+Contra Costa County,County,2015,Annual,N,Final,544900,517300,27500,5.0
+Contra Costa County,County,2016,Annual,N,Final,573800,548800,25000,4.4
+Contra Costa County,County,2017,Annual,N,Final,579400,557700,21700,3.7
+Contra Costa County,County,2018,Annual,N,Final,581700,563600,18100,3.1
+Contra Costa County,County,2019,Annual,N,Final,582200,564600,17600,3.0
+Contra Costa County,County,2020,Annual,N,Final,565100,516000,49100,8.7
+Contra Costa County,County,2021,Annual,N,Final,567500,532600,34900,6.1
+Contra Costa County,County,2022,Annual,N,Final,575400,555700,19700,3.4
+Contra Costa County,County,2023,Annual,N,Final,582200,559600,22600,3.9
+Contra Costa County,County,2024,Annual,N,Final,582300,556000,26300,4.5
+Del Norte County,County,1990,Annual,N,Final,9620,8460,1160,12.0
+Del Norte County,County,1991,Annual,N,Final,9790,8580,1210,12.3
+Del Norte County,County,1992,Annual,N,Final,9850,8320,1530,15.5
+Del Norte County,County,1993,Annual,N,Final,9750,8360,1390,14.2
+Del Norte County,County,1994,Annual,N,Final,10030,8800,1220,12.2
+Del Norte County,County,1995,Annual,N,Final,10070,8830,1240,12.3
+Del Norte County,County,1996,Annual,N,Final,10160,9090,1060,10.5
+Del Norte County,County,1997,Annual,N,Final,10160,9120,1040,10.2
+Del Norte County,County,1998,Annual,N,Final,9960,8930,1030,10.3
+Del Norte County,County,1999,Annual,N,Final,9870,9080,800,8.1
+Del Norte County,County,2000,Annual,N,Final,10240,9490,750,7.4
+Del Norte County,County,2001,Annual,N,Final,10230,9400,820,8.0
+Del Norte County,County,2002,Annual,N,Final,10240,9340,900,8.8
+Del Norte County,County,2003,Annual,N,Final,10350,9460,890,8.6
+Del Norte County,County,2004,Annual,N,Final,10670,9810,860,8.0
+Del Norte County,County,2005,Annual,N,Final,10800,10000,800,7.4
+Del Norte County,County,2006,Annual,N,Final,10880,10130,740,6.8
+Del Norte County,County,2007,Annual,N,Final,11140,10300,830,7.5
+Del Norte County,County,2008,Annual,N,Final,11480,10470,1010,8.8
+Del Norte County,County,2009,Annual,N,Final,11830,10390,1440,12.2
+Del Norte County,County,2010,Annual,N,Final,10950,9490,1460,13.3
+Del Norte County,County,2011,Annual,N,Final,10850,9410,1440,13.3
+Del Norte County,County,2012,Annual,N,Final,10470,9050,1420,13.6
+Del Norte County,County,2013,Annual,N,Final,10310,9070,1230,11.9
+Del Norte County,County,2014,Annual,N,Final,9930,8910,1010,10.2
+Del Norte County,County,2015,Annual,N,Final,9860,9010,840,8.6
+Del Norte County,County,2016,Annual,N,Final,9300,8550,750,8.0
+Del Norte County,County,2017,Annual,N,Final,9230,8590,640,6.9
+Del Norte County,County,2018,Annual,N,Final,9230,8670,560,6.1
+Del Norte County,County,2019,Annual,N,Final,9140,8580,570,6.2
+Del Norte County,County,2020,Annual,N,Final,8950,8030,920,10.2
+Del Norte County,County,2021,Annual,N,Final,8870,8140,720,8.2
+Del Norte County,County,2022,Annual,N,Final,8780,8300,490,5.6
+Del Norte County,County,2023,Annual,N,Final,8950,8410,540,6.0
+Del Norte County,County,2024,Annual,N,Final,8990,8430,560,6.2
+El Dorado County,County,1990,Annual,N,Final,63900,61000,2900,4.5
+El Dorado County,County,1991,Annual,N,Final,65600,61200,4400,6.7
+El Dorado County,County,1992,Annual,N,Final,67200,61500,5800,8.6
+El Dorado County,County,1993,Annual,N,Final,67400,61500,5900,8.7
+El Dorado County,County,1994,Annual,N,Final,70400,65300,5100,7.3
+El Dorado County,County,1995,Annual,N,Final,72100,67100,5000,6.9
+El Dorado County,County,1996,Annual,N,Final,73900,69200,4700,6.4
+El Dorado County,County,1997,Annual,N,Final,75700,71500,4200,5.5
+El Dorado County,County,1998,Annual,N,Final,76900,73100,3800,5.0
+El Dorado County,County,1999,Annual,N,Final,79300,76100,3100,3.9
+El Dorado County,County,2000,Annual,N,Final,82200,78900,3400,4.1
+El Dorado County,County,2001,Annual,N,Final,84100,80500,3600,4.3
+El Dorado County,County,2002,Annual,N,Final,86400,81800,4500,5.3
+El Dorado County,County,2003,Annual,N,Final,87700,82800,4900,5.6
+El Dorado County,County,2004,Annual,N,Final,89200,84500,4700,5.3
+El Dorado County,County,2005,Annual,N,Final,91600,87200,4400,4.8
+El Dorado County,County,2006,Annual,N,Final,92300,88000,4200,4.6
+El Dorado County,County,2007,Annual,N,Final,91300,86600,4700,5.1
+El Dorado County,County,2008,Annual,N,Final,91500,85100,6400,7.0
+El Dorado County,County,2009,Annual,N,Final,92800,82400,10400,11.2
+El Dorado County,County,2010,Annual,N,Final,91200,80000,11200,12.3
+El Dorado County,County,2011,Annual,N,Final,89300,78900,10500,11.7
+El Dorado County,County,2012,Annual,N,Final,88800,79700,9100,10.3
+El Dorado County,County,2013,Annual,N,Final,88400,80800,7600,8.6
+El Dorado County,County,2014,Annual,N,Final,87800,81600,6200,7.1
+El Dorado County,County,2015,Annual,N,Final,87900,82900,5000,5.7
+El Dorado County,County,2016,Annual,N,Final,84800,80200,4600,5.4
+El Dorado County,County,2017,Annual,N,Final,85400,81400,3900,4.6
+El Dorado County,County,2018,Annual,N,Final,86300,83000,3300,3.8
+El Dorado County,County,2019,Annual,N,Final,87100,83800,3300,3.8
+El Dorado County,County,2020,Annual,N,Final,85800,78200,7600,8.9
+El Dorado County,County,2021,Annual,N,Final,87100,81700,5300,6.1
+El Dorado County,County,2022,Annual,N,Final,87400,84200,3200,3.6
+El Dorado County,County,2023,Annual,N,Final,88800,85200,3700,4.1
+El Dorado County,County,2024,Annual,N,Final,90200,86000,4200,4.7
+Fresno County,County,1990,Annual,N,Final,329000,290700,38300,11.6
+Fresno County,County,1991,Annual,N,Final,337500,291800,45700,13.5
+Fresno County,County,1992,Annual,N,Final,352800,297700,55200,15.6
+Fresno County,County,1993,Annual,N,Final,361500,305500,56000,15.5
+Fresno County,County,1994,Annual,N,Final,356000,304800,51300,14.4
+Fresno County,County,1995,Annual,N,Final,370000,317800,52200,14.1
+Fresno County,County,1996,Annual,N,Final,369900,320300,49600,13.4
+Fresno County,County,1997,Annual,N,Final,372000,321600,50400,13.6
+Fresno County,County,1998,Annual,N,Final,376100,322400,53600,14.3
+Fresno County,County,1999,Annual,N,Final,377700,326400,51400,13.6
+Fresno County,County,2000,Annual,N,Final,388400,348300,40100,10.3
+Fresno County,County,2001,Annual,N,Final,390000,348200,41800,10.7
+Fresno County,County,2002,Annual,N,Final,402400,355700,46700,11.6
+Fresno County,County,2003,Annual,N,Final,405400,357400,48000,11.8
+Fresno County,County,2004,Annual,N,Final,405800,363500,42300,10.4
+Fresno County,County,2005,Annual,N,Final,409600,372900,36700,9.0
+Fresno County,County,2006,Annual,N,Final,413700,380600,33100,8.0
+Fresno County,County,2007,Annual,N,Final,422600,386700,35900,8.5
+Fresno County,County,2008,Annual,N,Final,434000,388300,45700,10.5
+Fresno County,County,2009,Annual,N,Final,440200,373300,66800,15.2
+Fresno County,County,2010,Annual,N,Final,440300,366100,74200,16.8
+Fresno County,County,2011,Annual,N,Final,441800,368700,73100,16.5
+Fresno County,County,2012,Annual,N,Final,438900,372200,66700,15.2
+Fresno County,County,2013,Annual,N,Final,436900,378500,58500,13.4
+Fresno County,County,2014,Annual,N,Final,438100,386800,51300,11.7
+Fresno County,County,2015,Annual,N,Final,440400,395400,45000,10.2
+Fresno County,County,2016,Annual,N,Final,439900,397400,42500,9.7
+Fresno County,County,2017,Annual,N,Final,440400,402200,38300,8.7
+Fresno County,County,2018,Annual,N,Final,441000,407200,33800,7.7
+Fresno County,County,2019,Annual,N,Final,445500,412500,33100,7.4
+Fresno County,County,2020,Annual,N,Final,440800,389000,51800,11.8
+Fresno County,County,2021,Annual,N,Final,438800,398100,40800,9.3
+Fresno County,County,2022,Annual,N,Final,445700,416300,29400,6.6
+Fresno County,County,2023,Annual,N,Final,459000,424700,34300,7.5
+Fresno County,County,2024,Annual,N,Final,469100,431800,37200,7.9
+Glenn County,County,1990,Annual,N,Final,11260,9850,1410,12.5
+Glenn County,County,1991,Annual,N,Final,11110,9340,1760,15.9
+Glenn County,County,1992,Annual,N,Final,11410,9230,2170,19.1
+Glenn County,County,1993,Annual,N,Final,11350,9380,1970,17.4
+Glenn County,County,1994,Annual,N,Final,11510,9640,1870,16.2
+Glenn County,County,1995,Annual,N,Final,11460,9670,1790,15.6
+Glenn County,County,1996,Annual,N,Final,11390,9640,1750,15.3
+Glenn County,County,1997,Annual,N,Final,10960,9480,1480,13.5
+Glenn County,County,1998,Annual,N,Final,10490,9080,1410,13.4
+Glenn County,County,1999,Annual,N,Final,10390,9220,1180,11.3
+Glenn County,County,2000,Annual,N,Final,11290,10350,950,8.4
+Glenn County,County,2001,Annual,N,Final,11240,10250,990,8.8
+Glenn County,County,2002,Annual,N,Final,11250,10160,1090,9.7
+Glenn County,County,2003,Annual,N,Final,11170,10010,1150,10.3
+Glenn County,County,2004,Annual,N,Final,11500,10420,1070,9.3
+Glenn County,County,2005,Annual,N,Final,11600,10630,970,8.4
+Glenn County,County,2006,Annual,N,Final,11710,10770,940,8.0
+Glenn County,County,2007,Annual,N,Final,12090,11030,1060,8.7
+Glenn County,County,2008,Annual,N,Final,12310,11020,1290,10.5
+Glenn County,County,2009,Annual,N,Final,12750,10890,1870,14.6
+Glenn County,County,2010,Annual,N,Final,13240,11180,2060,15.6
+Glenn County,County,2011,Annual,N,Final,13120,11080,2040,15.5
+Glenn County,County,2012,Annual,N,Final,13110,11250,1870,14.2
+Glenn County,County,2013,Annual,N,Final,12960,11380,1580,12.2
+Glenn County,County,2014,Annual,N,Final,12800,11420,1380,10.8
+Glenn County,County,2015,Annual,N,Final,12970,11830,1130,8.7
+Glenn County,County,2016,Annual,N,Final,12090,11000,1090,9.0
+Glenn County,County,2017,Annual,N,Final,11970,11000,970,8.1
+Glenn County,County,2018,Annual,N,Final,11910,11070,840,7.1
+Glenn County,County,2019,Annual,N,Final,12120,11310,810,6.7
+Glenn County,County,2020,Annual,N,Final,11910,10760,1150,9.7
+Glenn County,County,2021,Annual,N,Final,11720,10830,890,7.6
+Glenn County,County,2022,Annual,N,Final,11850,11150,700,5.9
+Glenn County,County,2023,Annual,N,Final,11970,11170,800,6.7
+Glenn County,County,2024,Annual,N,Final,12140,11290,860,7.1
+Humboldt County,County,1990,Annual,N,Final,56300,51900,4500,7.9
+Humboldt County,County,1991,Annual,N,Final,56800,51700,5000,8.9
+Humboldt County,County,1992,Annual,N,Final,58900,53000,5900,10.1
+Humboldt County,County,1993,Annual,N,Final,59600,53600,5900,9.9
+Humboldt County,County,1994,Annual,N,Final,59800,54600,5200,8.7
+Humboldt County,County,1995,Annual,N,Final,59700,54700,5000,8.3
+Humboldt County,County,1996,Annual,N,Final,60000,55300,4600,7.7
+Humboldt County,County,1997,Annual,N,Final,60300,55900,4500,7.4
+Humboldt County,County,1998,Annual,N,Final,60700,56300,4400,7.2
+Humboldt County,County,1999,Annual,N,Final,59800,55900,3900,6.5
+Humboldt County,County,2000,Annual,N,Final,60200,56700,3500,5.7
+Humboldt County,County,2001,Annual,N,Final,60500,56800,3600,6.0
+Humboldt County,County,2002,Annual,N,Final,60900,56800,4100,6.8
+Humboldt County,County,2003,Annual,N,Final,60800,56600,4200,6.9
+Humboldt County,County,2004,Annual,N,Final,60600,56700,3900,6.5
+Humboldt County,County,2005,Annual,N,Final,59900,56200,3600,6.1
+Humboldt County,County,2006,Annual,N,Final,59900,56600,3300,5.5
+Humboldt County,County,2007,Annual,N,Final,59900,56400,3500,5.9
+Humboldt County,County,2008,Annual,N,Final,60600,56200,4400,7.3
+Humboldt County,County,2009,Annual,N,Final,61600,54800,6800,11.1
+Humboldt County,County,2010,Annual,N,Final,66100,59100,7000,10.6
+Humboldt County,County,2011,Annual,N,Final,64800,58000,6800,10.5
+Humboldt County,County,2012,Annual,N,Final,64100,57900,6200,9.6
+Humboldt County,County,2013,Annual,N,Final,62900,57700,5100,8.2
+Humboldt County,County,2014,Annual,N,Final,62300,58100,4200,6.8
+Humboldt County,County,2015,Annual,N,Final,62300,58800,3500,5.6
+Humboldt County,County,2016,Annual,N,Final,61400,58300,3100,5.1
+Humboldt County,County,2017,Annual,N,Final,61500,58800,2700,4.3
+Humboldt County,County,2018,Annual,N,Final,61400,59100,2300,3.7
+Humboldt County,County,2019,Annual,N,Final,61100,58800,2300,3.7
+Humboldt County,County,2020,Annual,N,Final,58700,53600,5100,8.7
+Humboldt County,County,2021,Annual,N,Final,57700,54000,3700,6.4
+Humboldt County,County,2022,Annual,N,Final,58100,55700,2400,4.1
+Humboldt County,County,2023,Annual,N,Final,59200,56500,2700,4.6
+Humboldt County,County,2024,Annual,N,Final,60200,57100,3100,5.2
+Imperial County,County,1990,Annual,N,Final,47400,35300,12100,25.5
+Imperial County,County,1991,Annual,N,Final,49000,36200,12900,26.2
+Imperial County,County,1992,Annual,N,Final,54000,37300,16700,30.9
+Imperial County,County,1993,Annual,N,Final,55300,39000,16200,29.4
+Imperial County,County,1994,Annual,N,Final,57500,42300,15300,26.5
+Imperial County,County,1995,Annual,N,Final,57900,41000,17000,29.3
+Imperial County,County,1996,Annual,N,Final,57500,40200,17300,30.0
+Imperial County,County,1997,Annual,N,Final,56200,41000,15100,27.0
+Imperial County,County,1998,Annual,N,Final,55900,41400,14600,26.0
+Imperial County,County,1999,Annual,N,Final,55200,42100,13100,23.7
+Imperial County,County,2000,Annual,N,Final,56100,46300,9700,17.3
+Imperial County,County,2001,Annual,N,Final,55600,46700,8900,16.0
+Imperial County,County,2002,Annual,N,Final,57400,48800,8700,15.1
+Imperial County,County,2003,Annual,N,Final,58900,49700,9300,15.7
+Imperial County,County,2004,Annual,N,Final,59700,49500,10200,17.0
+Imperial County,County,2005,Annual,N,Final,61000,51200,9700,15.9
+Imperial County,County,2006,Annual,N,Final,63500,53700,9800,15.4
+Imperial County,County,2007,Annual,N,Final,66600,54600,11900,18.0
+Imperial County,County,2008,Annual,N,Final,73200,56700,16500,22.5
+Imperial County,County,2009,Annual,N,Final,77000,55300,21700,28.2
+Imperial County,County,2010,Annual,N,Final,78900,56000,22900,29.1
+Imperial County,County,2011,Annual,N,Final,79200,56300,22900,28.9
+Imperial County,County,2012,Annual,N,Final,79100,57400,21700,27.4
+Imperial County,County,2013,Annual,N,Final,78200,58500,19700,25.2
+Imperial County,County,2014,Annual,N,Final,78400,59300,19000,24.3
+Imperial County,County,2015,Annual,N,Final,76700,57900,18800,24.6
+Imperial County,County,2016,Annual,N,Final,74600,56300,18300,24.5
+Imperial County,County,2017,Annual,N,Final,71200,57000,14200,19.9
+Imperial County,County,2018,Annual,N,Final,70400,57000,13400,19.0
+Imperial County,County,2019,Annual,N,Final,72600,57300,15300,21.1
+Imperial County,County,2020,Annual,N,Final,69700,53600,16200,23.2
+Imperial County,County,2021,Annual,N,Final,67100,55000,12100,18.0
+Imperial County,County,2022,Annual,N,Final,68100,57600,10500,15.4
+Imperial County,County,2023,Annual,N,Final,71500,58900,12600,17.6
+Imperial County,County,2024,Annual,N,Final,73000,59600,13400,18.4
+Inyo County,County,1990,Annual,N,Final,7020,6520,500,7.1
+Inyo County,County,1991,Annual,N,Final,7180,6470,710,9.8
+Inyo County,County,1992,Annual,N,Final,7170,6340,830,11.6
+Inyo County,County,1993,Annual,N,Final,7100,6310,790,11.2
+Inyo County,County,1994,Annual,N,Final,7170,6410,760,10.6
+Inyo County,County,1995,Annual,N,Final,7090,6420,670,9.4
+Inyo County,County,1996,Annual,N,Final,7260,6630,630,8.7
+Inyo County,County,1997,Annual,N,Final,7290,6680,600,8.2
+Inyo County,County,1998,Annual,N,Final,7260,6730,530,7.3
+Inyo County,County,1999,Annual,N,Final,7140,6720,410,5.7
+Inyo County,County,2000,Annual,N,Final,8860,8450,410,4.6
+Inyo County,County,2001,Annual,N,Final,9040,8630,410,4.6
+Inyo County,County,2002,Annual,N,Final,9230,8720,500,5.5
+Inyo County,County,2003,Annual,N,Final,9130,8590,530,5.8
+Inyo County,County,2004,Annual,N,Final,9280,8790,490,5.3
+Inyo County,County,2005,Annual,N,Final,9340,8880,460,4.9
+Inyo County,County,2006,Annual,N,Final,9080,8670,410,4.5
+Inyo County,County,2007,Annual,N,Final,8970,8530,440,4.9
+Inyo County,County,2008,Annual,N,Final,9180,8570,610,6.6
+Inyo County,County,2009,Annual,N,Final,9500,8620,880,9.3
+Inyo County,County,2010,Annual,N,Final,9760,8800,960,9.8
+Inyo County,County,2011,Annual,N,Final,9640,8710,940,9.7
+Inyo County,County,2012,Annual,N,Final,9530,8660,870,9.1
+Inyo County,County,2013,Annual,N,Final,9360,8620,740,7.9
+Inyo County,County,2014,Annual,N,Final,9200,8570,640,6.9
+Inyo County,County,2015,Annual,N,Final,9090,8560,530,5.8
+Inyo County,County,2016,Annual,N,Final,8540,8060,480,5.6
+Inyo County,County,2017,Annual,N,Final,8300,7920,390,4.6
+Inyo County,County,2018,Annual,N,Final,8390,8040,350,4.1
+Inyo County,County,2019,Annual,N,Final,8450,8130,320,3.8
+Inyo County,County,2020,Annual,N,Final,8040,7360,670,8.3
+Inyo County,County,2021,Annual,N,Final,7960,7460,500,6.3
+Inyo County,County,2022,Annual,N,Final,7880,7560,320,4.0
+Inyo County,County,2023,Annual,N,Final,8150,7820,320,4.0
+Inyo County,County,2024,Annual,N,Final,8400,8050,350,4.2
+Kern County,County,1990,Annual,N,Final,257000,229000,28000,10.9
+Kern County,County,1991,Annual,N,Final,265100,232500,32700,12.3
+Kern County,County,1992,Annual,N,Final,273100,229900,43200,15.8
+Kern County,County,1993,Annual,N,Final,273200,230000,43200,15.8
+Kern County,County,1994,Annual,N,Final,265400,225000,40400,15.2
+Kern County,County,1995,Annual,N,Final,270800,233300,37400,13.8
+Kern County,County,1996,Annual,N,Final,277300,241200,36100,13.0
+Kern County,County,1997,Annual,N,Final,278200,243500,34600,12.5
+Kern County,County,1998,Annual,N,Final,278600,244800,33900,12.2
+Kern County,County,1999,Annual,N,Final,278800,246800,32100,11.5
+Kern County,County,2000,Annual,N,Final,293800,269800,24000,8.2
+Kern County,County,2001,Annual,N,Final,298100,272500,25600,8.6
+Kern County,County,2002,Annual,N,Final,306200,276000,30200,9.9
+Kern County,County,2003,Annual,N,Final,312600,280000,32500,10.4
+Kern County,County,2004,Annual,N,Final,315700,284400,31200,9.9
+Kern County,County,2005,Annual,N,Final,328700,301300,27500,8.4
+Kern County,County,2006,Annual,N,Final,338800,313300,25500,7.5
+Kern County,County,2007,Annual,N,Final,348500,320200,28300,8.1
+Kern County,County,2008,Annual,N,Final,362800,327200,35600,9.8
+Kern County,County,2009,Annual,N,Final,367700,314200,53500,14.5
+Kern County,County,2010,Annual,N,Final,372100,313300,58800,15.8
+Kern County,County,2011,Annual,N,Final,380900,324400,56500,14.8
+Kern County,County,2012,Annual,N,Final,390900,339300,51600,13.2
+Kern County,County,2013,Annual,N,Final,392500,346000,46500,11.9
+Kern County,County,2014,Annual,N,Final,392300,351000,41300,10.5
+Kern County,County,2015,Annual,N,Final,390200,350300,40000,10.2
+Kern County,County,2016,Annual,N,Final,390500,349900,40700,10.4
+Kern County,County,2017,Annual,N,Final,386600,350900,35700,9.2
+Kern County,County,2018,Annual,N,Final,387700,356500,31300,8.1
+Kern County,County,2019,Annual,N,Final,391000,360400,30600,7.8
+Kern County,County,2020,Annual,N,Final,388600,339100,49500,12.7
+Kern County,County,2021,Annual,N,Final,388100,349500,38500,9.9
+Kern County,County,2022,Annual,N,Final,393000,365300,27700,7.1
+Kern County,County,2023,Annual,N,Final,401400,368700,32800,8.2
+Kern County,County,2024,Annual,N,Final,408100,372800,35300,8.6
+Kings County,County,1990,Annual,N,Final,37600,33400,4200,11.2
+Kings County,County,1991,Annual,N,Final,38700,33700,5000,12.8
+Kings County,County,1992,Annual,N,Final,40600,34400,6200,15.3
+Kings County,County,1993,Annual,N,Final,40900,34700,6300,15.3
+Kings County,County,1994,Annual,N,Final,40900,35000,5900,14.3
+Kings County,County,1995,Annual,N,Final,41800,35700,6100,14.6
+Kings County,County,1996,Annual,N,Final,42900,37200,5700,13.3
+Kings County,County,1997,Annual,N,Final,43600,37800,5800,13.3
+Kings County,County,1998,Annual,N,Final,43200,37200,6000,13.9
+Kings County,County,1999,Annual,N,Final,42900,37200,5700,13.2
+Kings County,County,2000,Annual,N,Final,49200,44400,4900,9.9
+Kings County,County,2001,Annual,N,Final,50300,44900,5400,10.7
+Kings County,County,2002,Annual,N,Final,51900,45700,6100,11.8
+Kings County,County,2003,Annual,N,Final,53300,46900,6400,12.1
+Kings County,County,2004,Annual,N,Final,53400,47500,5900,11.0
+Kings County,County,2005,Annual,N,Final,54200,49100,5100,9.4
+Kings County,County,2006,Annual,N,Final,55400,50800,4700,8.4
+Kings County,County,2007,Annual,N,Final,57900,52900,5000,8.6
+Kings County,County,2008,Annual,N,Final,59300,53100,6300,10.6
+Kings County,County,2009,Annual,N,Final,61300,52300,9000,14.7
+Kings County,County,2010,Annual,N,Final,59500,49800,9700,16.3
+Kings County,County,2011,Annual,N,Final,58900,49500,9400,15.9
+Kings County,County,2012,Annual,N,Final,58700,49900,8800,14.9
+Kings County,County,2013,Annual,N,Final,58100,50200,7900,13.5
+Kings County,County,2014,Annual,N,Final,57400,50500,6900,12.1
+Kings County,County,2015,Annual,N,Final,57700,51700,6100,10.5
+Kings County,County,2016,Annual,N,Final,55600,49900,5800,10.4
+Kings County,County,2017,Annual,N,Final,55800,50600,5200,9.3
+Kings County,County,2018,Annual,N,Final,55500,50900,4600,8.2
+Kings County,County,2019,Annual,N,Final,55800,51100,4700,8.3
+Kings County,County,2020,Annual,N,Final,54900,48100,6800,12.3
+Kings County,County,2021,Annual,N,Final,53900,48400,5400,10.1
+Kings County,County,2022,Annual,N,Final,54700,50600,4100,7.4
+Kings County,County,2023,Annual,N,Final,56800,52000,4800,8.5
+Kings County,County,2024,Annual,N,Final,58400,53200,5200,8.9
+Lake County,County,1990,Annual,N,Final,19990,18220,1770,8.9
+Lake County,County,1991,Annual,N,Final,20940,18700,2250,10.7
+Lake County,County,1992,Annual,N,Final,22350,19460,2890,12.9
+Lake County,County,1993,Annual,N,Final,22870,19810,3060,13.4
+Lake County,County,1994,Annual,N,Final,22430,19610,2820,12.6
+Lake County,County,1995,Annual,N,Final,23670,20880,2790,11.8
+Lake County,County,1996,Annual,N,Final,23580,20810,2770,11.7
+Lake County,County,1997,Annual,N,Final,23000,20520,2480,10.8
+Lake County,County,1998,Annual,N,Final,23140,20910,2230,9.6
+Lake County,County,1999,Annual,N,Final,23550,21700,1850,7.8
+Lake County,County,2000,Annual,N,Final,23090,21430,1660,7.2
+Lake County,County,2001,Annual,N,Final,24800,23050,1750,7.1
+Lake County,County,2002,Annual,N,Final,25760,23600,2160,8.4
+Lake County,County,2003,Annual,N,Final,25950,23560,2390,9.2
+Lake County,County,2004,Annual,N,Final,25860,23530,2330,9.0
+Lake County,County,2005,Annual,N,Final,26140,24070,2070,7.9
+Lake County,County,2006,Annual,N,Final,24470,22590,1870,7.7
+Lake County,County,2007,Annual,N,Final,24270,22240,2040,8.4
+Lake County,County,2008,Annual,N,Final,24780,22140,2640,10.7
+Lake County,County,2009,Annual,N,Final,25730,21740,3990,15.5
+Lake County,County,2010,Annual,N,Final,29890,25340,4550,15.2
+Lake County,County,2011,Annual,N,Final,29500,25210,4290,14.5
+Lake County,County,2012,Annual,N,Final,29430,25650,3780,12.8
+Lake County,County,2013,Annual,N,Final,29190,25970,3210,11.0
+Lake County,County,2014,Annual,N,Final,29260,26610,2650,9.1
+Lake County,County,2015,Annual,N,Final,29020,26810,2210,7.6
+Lake County,County,2016,Annual,N,Final,25410,23420,1990,7.8
+Lake County,County,2017,Annual,N,Final,25590,23860,1730,6.8
+Lake County,County,2018,Annual,N,Final,25340,23780,1560,6.2
+Lake County,County,2019,Annual,N,Final,25320,23800,1520,6.0
+Lake County,County,2020,Annual,N,Final,24970,22170,2790,11.2
+Lake County,County,2021,Annual,N,Final,24870,22670,2200,8.9
+Lake County,County,2022,Annual,N,Final,24770,23310,1460,5.9
+Lake County,County,2023,Annual,N,Final,25130,23450,1680,6.7
+Lake County,County,2024,Annual,N,Final,25970,24150,1820,7.0
+Lassen County,County,1990,Annual,N,Final,9990,9010,980,9.8
+Lassen County,County,1991,Annual,N,Final,10260,9180,1080,10.5
+Lassen County,County,1992,Annual,N,Final,10770,9530,1240,11.5
+Lassen County,County,1993,Annual,N,Final,10930,9570,1360,12.4
+Lassen County,County,1994,Annual,N,Final,11170,9890,1280,11.4
+Lassen County,County,1995,Annual,N,Final,10980,9760,1220,11.1
+Lassen County,County,1996,Annual,N,Final,11730,10440,1280,10.9
+Lassen County,County,1997,Annual,N,Final,11650,10520,1130,9.7
+Lassen County,County,1998,Annual,N,Final,11290,10230,1060,9.4
+Lassen County,County,1999,Annual,N,Final,11060,10280,780,7.1
+Lassen County,County,2000,Annual,N,Final,11360,10560,800,7.1
+Lassen County,County,2001,Annual,N,Final,11680,10820,860,7.3
+Lassen County,County,2002,Annual,N,Final,12230,11270,950,7.8
+Lassen County,County,2003,Annual,N,Final,12360,11400,960,7.7
+Lassen County,County,2004,Annual,N,Final,12230,11300,930,7.6
+Lassen County,County,2005,Annual,N,Final,12320,11330,990,8.0
+Lassen County,County,2006,Annual,N,Final,12310,11340,970,7.9
+Lassen County,County,2007,Annual,N,Final,12560,11540,1020,8.1
+Lassen County,County,2008,Annual,N,Final,12950,11710,1240,9.6
+Lassen County,County,2009,Annual,N,Final,13740,11990,1750,12.8
+Lassen County,County,2010,Annual,N,Final,12120,10400,1720,14.2
+Lassen County,County,2011,Annual,N,Final,11740,10150,1590,13.5
+Lassen County,County,2012,Annual,N,Final,11440,10010,1430,12.5
+Lassen County,County,2013,Annual,N,Final,10980,9800,1170,10.7
+Lassen County,County,2014,Annual,N,Final,10810,9810,1000,9.2
+Lassen County,County,2015,Annual,N,Final,10760,9980,780,7.2
+Lassen County,County,2016,Annual,N,Final,9760,9000,750,7.7
+Lassen County,County,2017,Annual,N,Final,9440,8850,580,6.2
+Lassen County,County,2018,Annual,N,Final,9270,8770,500,5.4
+Lassen County,County,2019,Annual,N,Final,9150,8670,480,5.3
+Lassen County,County,2020,Annual,N,Final,8840,8100,740,8.3
+Lassen County,County,2021,Annual,N,Final,8590,7980,610,7.1
+Lassen County,County,2022,Annual,N,Final,8110,7700,410,5.1
+Lassen County,County,2023,Annual,N,Final,7980,7530,450,5.6
+Lassen County,County,2024,Annual,N,Final,8170,7660,510,6.3
+Los Angeles County,County,1990,Annual,N,Final,4526600,4260700,265800,5.9
+Los Angeles County,County,1991,Annual,N,Final,4457800,4100100,357800,8.0
+Los Angeles County,County,1992,Annual,N,Final,4453200,4013100,440100,9.9
+Los Angeles County,County,1993,Annual,N,Final,4349200,3911600,437500,10.1
+Los Angeles County,County,1994,Annual,N,Final,4299400,3901300,398100,9.3
+Los Angeles County,County,1995,Annual,N,Final,4284800,3937800,347000,8.1
+Los Angeles County,County,1996,Annual,N,Final,4328800,3972900,355900,8.2
+Los Angeles County,County,1997,Annual,N,Final,4431800,4125800,306000,6.9
+Los Angeles County,County,1998,Annual,N,Final,4547500,4248200,299400,6.6
+Los Angeles County,County,1999,Annual,N,Final,4583700,4313600,270100,5.9
+Los Angeles County,County,2000,Annual,N,Final,4679800,4426500,253400,5.4
+Los Angeles County,County,2001,Annual,N,Final,4742500,4471900,270500,5.7
+Los Angeles County,County,2002,Annual,N,Final,4759900,4434500,325400,6.8
+Los Angeles County,County,2003,Annual,N,Final,4751600,4418300,333200,7.0
+Los Angeles County,County,2004,Annual,N,Final,4772100,4461400,310800,6.5
+Los Angeles County,County,2005,Annual,N,Final,4809700,4553900,255800,5.3
+Los Angeles County,County,2006,Annual,N,Final,4836800,4607700,229100,4.7
+Los Angeles County,County,2007,Annual,N,Final,4911000,4661300,249700,5.1
+Los Angeles County,County,2008,Annual,N,Final,4981900,4607900,374000,7.5
+Los Angeles County,County,2009,Annual,N,Final,4962900,4384100,578700,11.7
+Los Angeles County,County,2010,Annual,N,Final,4929900,4308600,621300,12.6
+Los Angeles County,County,2011,Annual,N,Final,4923000,4320300,602700,12.2
+Los Angeles County,County,2012,Annual,N,Final,4907300,4373200,534200,10.9
+Los Angeles County,County,2013,Annual,N,Final,4962800,4474800,487900,9.8
+Los Angeles County,County,2014,Annual,N,Final,4988500,4577600,410900,8.2
+Los Angeles County,County,2015,Annual,N,Final,4990700,4657000,333700,6.7
+Los Angeles County,County,2016,Annual,N,Final,5041400,4774400,266900,5.3
+Los Angeles County,County,2017,Annual,N,Final,5107300,4863500,243900,4.8
+Los Angeles County,County,2018,Annual,N,Final,5127100,4888800,238300,4.6
+Los Angeles County,County,2019,Annual,N,Final,5164000,4932300,231700,4.5
+Los Angeles County,County,2020,Annual,N,Final,4972600,4363200,609400,12.3
+Los Angeles County,County,2021,Annual,N,Final,4999700,4551600,448100,9.0
+Los Angeles County,County,2022,Annual,N,Final,5021800,4771700,250100,5.0
+Los Angeles County,County,2023,Annual,N,Final,5055300,4799000,256200,5.1
+Los Angeles County,County,2024,Annual,N,Final,5109800,4812600,297200,5.8
+Madera County,County,1990,Annual,N,Final,41600,36000,5600,13.5
+Madera County,County,1991,Annual,N,Final,44300,37600,6700,15.1
+Madera County,County,1992,Annual,N,Final,46900,39000,7900,16.8
+Madera County,County,1993,Annual,N,Final,47800,40000,7800,16.3
+Madera County,County,1994,Annual,N,Final,48400,40900,7500,15.5
+Madera County,County,1995,Annual,N,Final,50600,43100,7600,15.0
+Madera County,County,1996,Annual,N,Final,52000,44600,7400,14.3
+Madera County,County,1997,Annual,N,Final,52100,45000,7100,13.6
+Madera County,County,1998,Annual,N,Final,52400,45700,6700,12.8
+Madera County,County,1999,Annual,N,Final,52800,46600,6200,11.7
+Madera County,County,2000,Annual,N,Final,54900,50200,4700,8.6
+Madera County,County,2001,Annual,N,Final,54000,48800,5200,9.6
+Madera County,County,2002,Annual,N,Final,55700,49800,6000,10.7
+Madera County,County,2003,Annual,N,Final,59200,53000,6200,10.4
+Madera County,County,2004,Annual,N,Final,61300,55700,5600,9.1
+Madera County,County,2005,Annual,N,Final,62300,57400,4900,7.8
+Madera County,County,2006,Annual,N,Final,63200,58800,4400,7.0
+Madera County,County,2007,Annual,N,Final,64000,59200,4800,7.4
+Madera County,County,2008,Annual,N,Final,65700,59500,6200,9.5
+Madera County,County,2009,Annual,N,Final,67400,58100,9300,13.8
+Madera County,County,2010,Annual,N,Final,61700,51400,10400,16.8
+Madera County,County,2011,Annual,N,Final,61800,51800,10000,16.2
+Madera County,County,2012,Annual,N,Final,62400,53300,9000,14.5
+Madera County,County,2013,Annual,N,Final,62100,54200,7900,12.7
+Madera County,County,2014,Annual,N,Final,61800,54800,7000,11.3
+Madera County,County,2015,Annual,N,Final,59800,53500,6300,10.5
+Madera County,County,2016,Annual,N,Final,63600,57900,5700,8.9
+Madera County,County,2017,Annual,N,Final,63400,58400,5000,7.8
+Madera County,County,2018,Annual,N,Final,63900,59500,4300,6.8
+Madera County,County,2019,Annual,N,Final,64400,60000,4300,6.7
+Madera County,County,2020,Annual,N,Final,63300,56500,6900,10.8
+Madera County,County,2021,Annual,N,Final,64100,58600,5500,8.6
+Madera County,County,2022,Annual,N,Final,65600,61600,4000,6.1
+Madera County,County,2023,Annual,N,Final,68400,63500,4800,7.1
+Madera County,County,2024,Annual,N,Final,69600,64400,5300,7.5
+Marin County,County,1990,Annual,N,Final,132000,128700,3300,2.5
+Marin County,County,1991,Annual,N,Final,130700,125700,5000,3.9
+Marin County,County,1992,Annual,N,Final,130400,123800,6600,5.1
+Marin County,County,1993,Annual,N,Final,130600,123900,6700,5.1
+Marin County,County,1994,Annual,N,Final,129100,123100,6000,4.7
+Marin County,County,1995,Annual,N,Final,127500,122000,5500,4.3
+Marin County,County,1996,Annual,N,Final,128500,124100,4500,3.5
+Marin County,County,1997,Annual,N,Final,130800,127000,3800,2.9
+Marin County,County,1998,Annual,N,Final,132800,129700,3100,2.3
+Marin County,County,1999,Annual,N,Final,134200,131500,2600,2.0
+Marin County,County,2000,Annual,N,Final,141900,137900,4000,2.8
+Marin County,County,2001,Annual,N,Final,140100,135200,5000,3.5
+Marin County,County,2002,Annual,N,Final,134800,128200,6600,4.9
+Marin County,County,2003,Annual,N,Final,131000,124600,6500,4.9
+Marin County,County,2004,Annual,N,Final,129600,123900,5700,4.4
+Marin County,County,2005,Annual,N,Final,129900,124900,5000,3.9
+Marin County,County,2006,Annual,N,Final,131600,127000,4600,3.5
+Marin County,County,2007,Annual,N,Final,133200,128400,4800,3.6
+Marin County,County,2008,Annual,N,Final,133600,127300,6300,4.7
+Marin County,County,2009,Annual,N,Final,133500,123100,10400,7.8
+Marin County,County,2010,Annual,N,Final,133100,122500,10600,7.9
+Marin County,County,2011,Annual,N,Final,134100,124300,9700,7.3
+Marin County,County,2012,Annual,N,Final,136500,127900,8600,6.3
+Marin County,County,2013,Annual,N,Final,137900,130700,7200,5.2
+Marin County,County,2014,Annual,N,Final,138600,132600,6000,4.3
+Marin County,County,2015,Annual,N,Final,138700,133800,4900,3.6
+Marin County,County,2016,Annual,N,Final,131900,127300,4700,3.5
+Marin County,County,2017,Annual,N,Final,131900,127800,4100,3.1
+Marin County,County,2018,Annual,N,Final,132000,128500,3400,2.6
+Marin County,County,2019,Annual,N,Final,131200,127900,3300,2.5
+Marin County,County,2020,Annual,N,Final,123500,114600,8900,7.2
+Marin County,County,2021,Annual,N,Final,121900,116000,5900,4.8
+Marin County,County,2022,Annual,N,Final,123700,120100,3500,2.9
+Marin County,County,2023,Annual,N,Final,125100,120800,4300,3.5
+Marin County,County,2024,Annual,N,Final,125400,120400,4900,3.9
+Mariposa County,County,1990,Annual,N,Final,6780,6400,380,5.7
+Mariposa County,County,1991,Annual,N,Final,6960,6450,500,7.2
+Mariposa County,County,1992,Annual,N,Final,7160,6530,630,8.8
+Mariposa County,County,1993,Annual,N,Final,7240,6510,730,10.1
+Mariposa County,County,1994,Annual,N,Final,7240,6540,700,9.6
+Mariposa County,County,1995,Annual,N,Final,7440,6740,700,9.4
+Mariposa County,County,1996,Annual,N,Final,7480,6810,680,9.0
+Mariposa County,County,1997,Annual,N,Final,6860,6160,690,10.1
+Mariposa County,County,1998,Annual,N,Final,6890,6360,530,7.7
+Mariposa County,County,1999,Annual,N,Final,6650,6150,500,7.5
+Mariposa County,County,2000,Annual,N,Final,7980,7490,490,6.1
+Mariposa County,County,2001,Annual,N,Final,8490,8000,490,5.8
+Mariposa County,County,2002,Annual,N,Final,8740,8170,570,6.5
+Mariposa County,County,2003,Annual,N,Final,8440,7860,590,7.0
+Mariposa County,County,2004,Annual,N,Final,8600,8030,580,6.7
+Mariposa County,County,2005,Annual,N,Final,8840,8280,560,6.3
+Mariposa County,County,2006,Annual,N,Final,9080,8570,510,5.6
+Mariposa County,County,2007,Annual,N,Final,9150,8600,550,6.0
+Mariposa County,County,2008,Annual,N,Final,9370,8660,710,7.5
+Mariposa County,County,2009,Annual,N,Final,9510,8500,1010,10.6
+Mariposa County,County,2010,Annual,N,Final,8720,7580,1140,13.1
+Mariposa County,County,2011,Annual,N,Final,8630,7490,1140,13.2
+Mariposa County,County,2012,Annual,N,Final,8350,7330,1020,12.3
+Mariposa County,County,2013,Annual,N,Final,8210,7340,870,10.6
+Mariposa County,County,2014,Annual,N,Final,8090,7370,720,8.9
+Mariposa County,County,2015,Annual,N,Final,8010,7440,570,7.2
+Mariposa County,County,2016,Annual,N,Final,7070,6540,520,7.4
+Mariposa County,County,2017,Annual,N,Final,7140,6690,450,6.3
+Mariposa County,County,2018,Annual,N,Final,7120,6710,410,5.7
+Mariposa County,County,2019,Annual,N,Final,7100,6750,350,5.0
+Mariposa County,County,2020,Annual,N,Final,6730,5930,800,11.9
+Mariposa County,County,2021,Annual,N,Final,6570,6010,560,8.5
+Mariposa County,County,2022,Annual,N,Final,6770,6440,330,4.9
+Mariposa County,County,2023,Annual,N,Final,7090,6710,380,5.4
+Mariposa County,County,2024,Annual,N,Final,7340,6940,400,5.5
+Mendocino County,County,1990,Annual,N,Final,38780,35820,2960,7.6
+Mendocino County,County,1991,Annual,N,Final,38840,34680,4160,10.7
+Mendocino County,County,1992,Annual,N,Final,39790,34880,4920,12.4
+Mendocino County,County,1993,Annual,N,Final,40330,35780,4550,11.3
+Mendocino County,County,1994,Annual,N,Final,40410,36490,3920,9.7
+Mendocino County,County,1995,Annual,N,Final,40960,37050,3910,9.5
+Mendocino County,County,1996,Annual,N,Final,41940,38280,3670,8.7
+Mendocino County,County,1997,Annual,N,Final,42420,38990,3420,8.1
+Mendocino County,County,1998,Annual,N,Final,42340,39000,3340,7.9
+Mendocino County,County,1999,Annual,N,Final,41560,38720,2830,6.8
+Mendocino County,County,2000,Annual,N,Final,43610,41200,2410,5.5
+Mendocino County,County,2001,Annual,N,Final,44680,42020,2660,6.0
+Mendocino County,County,2002,Annual,N,Final,45840,42770,3080,6.7
+Mendocino County,County,2003,Annual,N,Final,45120,41990,3130,6.9
+Mendocino County,County,2004,Annual,N,Final,44030,41200,2820,6.4
+Mendocino County,County,2005,Annual,N,Final,44110,41580,2530,5.7
+Mendocino County,County,2006,Annual,N,Final,43590,41330,2260,5.2
+Mendocino County,County,2007,Annual,N,Final,43540,41160,2380,5.5
+Mendocino County,County,2008,Annual,N,Final,43660,40650,3010,6.9
+Mendocino County,County,2009,Annual,N,Final,43840,39270,4560,10.4
+Mendocino County,County,2010,Annual,N,Final,41630,36760,4860,11.7
+Mendocino County,County,2011,Annual,N,Final,40780,36140,4640,11.4
+Mendocino County,County,2012,Annual,N,Final,40840,36720,4110,10.1
+Mendocino County,County,2013,Annual,N,Final,40730,37290,3440,8.4
+Mendocino County,County,2014,Annual,N,Final,40340,37480,2860,7.1
+Mendocino County,County,2015,Annual,N,Final,39850,37520,2330,5.8
+Mendocino County,County,2016,Annual,N,Final,38280,36140,2140,5.6
+Mendocino County,County,2017,Annual,N,Final,38260,36420,1840,4.8
+Mendocino County,County,2018,Annual,N,Final,38140,36530,1620,4.2
+Mendocino County,County,2019,Annual,N,Final,37480,35890,1600,4.3
+Mendocino County,County,2020,Annual,N,Final,36040,32630,3400,9.4
+Mendocino County,County,2021,Annual,N,Final,35650,33270,2380,6.7
+Mendocino County,County,2022,Annual,N,Final,35890,34310,1590,4.4
+Mendocino County,County,2023,Annual,N,Final,36350,34570,1780,4.9
+Mendocino County,County,2024,Annual,N,Final,36500,34470,2020,5.5
+Merced County,County,1990,Annual,N,Final,77000,67100,9900,12.8
+Merced County,County,1991,Annual,N,Final,77400,65200,12200,15.8
+Merced County,County,1992,Annual,N,Final,83100,68500,14500,17.5
+Merced County,County,1993,Annual,N,Final,83200,68700,14400,17.4
+Merced County,County,1994,Annual,N,Final,83600,70000,13600,16.3
+Merced County,County,1995,Annual,N,Final,82700,68600,14200,17.1
+Merced County,County,1996,Annual,N,Final,81800,68100,13700,16.7
+Merced County,County,1997,Annual,N,Final,83300,70200,13100,15.7
+Merced County,County,1998,Annual,N,Final,85100,72200,12900,15.2
+Merced County,County,1999,Annual,N,Final,83700,72400,11300,13.5
+Merced County,County,2000,Annual,N,Final,90300,81700,8600,9.5
+Merced County,County,2001,Annual,N,Final,91900,82500,9400,10.2
+Merced County,County,2002,Annual,N,Final,96000,85400,10600,11.1
+Merced County,County,2003,Annual,N,Final,97200,85900,11300,11.6
+Merced County,County,2004,Annual,N,Final,98000,87300,10700,10.9
+Merced County,County,2005,Annual,N,Final,99300,89400,9900,10.0
+Merced County,County,2006,Annual,N,Final,98700,89400,9300,9.4
+Merced County,County,2007,Annual,N,Final,100800,90700,10100,10.0
+Merced County,County,2008,Annual,N,Final,103200,90200,13000,12.6
+Merced County,County,2009,Annual,N,Final,106900,88600,18400,17.2
+Merced County,County,2010,Annual,N,Final,113800,93200,20600,18.1
+Merced County,County,2011,Annual,N,Final,114300,94100,20200,17.7
+Merced County,County,2012,Annual,N,Final,114700,95900,18800,16.4
+Merced County,County,2013,Annual,N,Final,114400,97700,16700,14.6
+Merced County,County,2014,Annual,N,Final,114300,99500,14800,13.0
+Merced County,County,2015,Annual,N,Final,114100,101100,13000,11.4
+Merced County,County,2016,Annual,N,Final,113900,101700,12100,10.7
+Merced County,County,2017,Annual,N,Final,114800,103900,10900,9.5
+Merced County,County,2018,Annual,N,Final,114800,105100,9700,8.4
+Merced County,County,2019,Annual,N,Final,116100,106600,9500,8.1
+Merced County,County,2020,Annual,N,Final,115700,101300,14400,12.5
+Merced County,County,2021,Annual,N,Final,114800,102900,11900,10.3
+Merced County,County,2022,Annual,N,Final,115400,106400,9100,7.9
+Merced County,County,2023,Annual,N,Final,118900,108200,10700,9.0
+Merced County,County,2024,Annual,N,Final,120600,108700,11800,9.8
+Modoc County,County,1990,Annual,N,Final,3770,3400,360,9.6
+Modoc County,County,1991,Annual,N,Final,3890,3400,490,12.6
+Modoc County,County,1992,Annual,N,Final,4010,3500,520,12.9
+Modoc County,County,1993,Annual,N,Final,3930,3390,530,13.6
+Modoc County,County,1994,Annual,N,Final,4270,3750,510,12.0
+Modoc County,County,1995,Annual,N,Final,4210,3650,560,13.3
+Modoc County,County,1996,Annual,N,Final,4150,3640,510,12.2
+Modoc County,County,1997,Annual,N,Final,3910,3450,460,11.7
+Modoc County,County,1998,Annual,N,Final,3970,3520,450,11.2
+Modoc County,County,1999,Annual,N,Final,3990,3650,340,8.6
+Modoc County,County,2000,Annual,N,Final,3760,3480,280,7.5
+Modoc County,County,2001,Annual,N,Final,3910,3640,270,7.0
+Modoc County,County,2002,Annual,N,Final,4110,3780,320,7.9
+Modoc County,County,2003,Annual,N,Final,4220,3850,370,8.8
+Modoc County,County,2004,Annual,N,Final,4060,3710,360,8.8
+Modoc County,County,2005,Annual,N,Final,4030,3710,320,7.9
+Modoc County,County,2006,Annual,N,Final,4010,3700,310,7.7
+Modoc County,County,2007,Annual,N,Final,3930,3620,310,8.0
+Modoc County,County,2008,Annual,N,Final,3980,3590,390,9.7
+Modoc County,County,2009,Annual,N,Final,4100,3580,510,12.5
+Modoc County,County,2010,Annual,N,Final,3820,3240,580,15.3
+Modoc County,County,2011,Annual,N,Final,3610,3030,580,16.0
+Modoc County,County,2012,Annual,N,Final,3600,3080,520,14.4
+Modoc County,County,2013,Annual,N,Final,3490,3060,430,12.4
+Modoc County,County,2014,Annual,N,Final,3360,3010,350,10.4
+Modoc County,County,2015,Annual,N,Final,3310,3020,280,8.6
+Modoc County,County,2016,Annual,N,Final,3130,2870,260,8.3
+Modoc County,County,2017,Annual,N,Final,3020,2760,260,8.6
+Modoc County,County,2018,Annual,N,Final,2990,2740,240,8.0
+Modoc County,County,2019,Annual,N,Final,3010,2780,230,7.6
+Modoc County,County,2020,Annual,N,Final,3010,2730,280,9.3
+Modoc County,County,2021,Annual,N,Final,3020,2790,230,7.6
+Modoc County,County,2022,Annual,N,Final,3010,2840,180,5.8
+Modoc County,County,2023,Annual,N,Final,3070,2860,200,6.7
+Modoc County,County,2024,Annual,N,Final,3120,2900,220,7.0
+Mono County,County,1990,Annual,N,Final,5730,5390,340,5.9
+Mono County,County,1991,Annual,N,Final,5470,4800,660,12.1
+Mono County,County,1992,Annual,N,Final,5820,5200,620,10.7
+Mono County,County,1993,Annual,N,Final,5970,5410,560,9.4
+Mono County,County,1994,Annual,N,Final,6150,5510,640,10.4
+Mono County,County,1995,Annual,N,Final,6130,5470,660,10.8
+Mono County,County,1996,Annual,N,Final,6050,5390,660,10.9
+Mono County,County,1997,Annual,N,Final,6060,5430,630,10.4
+Mono County,County,1998,Annual,N,Final,6120,5620,500,8.2
+Mono County,County,1999,Annual,N,Final,6140,5720,420,6.8
+Mono County,County,2000,Annual,N,Final,7400,7060,340,4.6
+Mono County,County,2001,Annual,N,Final,7620,7260,360,4.7
+Mono County,County,2002,Annual,N,Final,7890,7490,410,5.2
+Mono County,County,2003,Annual,N,Final,8300,7870,420,5.1
+Mono County,County,2004,Annual,N,Final,8320,7900,420,5.0
+Mono County,County,2005,Annual,N,Final,8390,7990,410,4.8
+Mono County,County,2006,Annual,N,Final,8300,7940,370,4.4
+Mono County,County,2007,Annual,N,Final,8210,7820,390,4.8
+Mono County,County,2008,Annual,N,Final,8690,8180,510,5.9
+Mono County,County,2009,Annual,N,Final,8840,8030,800,9.1
+Mono County,County,2010,Annual,N,Final,8900,7980,910,10.3
+Mono County,County,2011,Annual,N,Final,8800,7910,880,10.1
+Mono County,County,2012,Annual,N,Final,8380,7510,870,10.4
+Mono County,County,2013,Annual,N,Final,8350,7630,720,8.6
+Mono County,County,2014,Annual,N,Final,8230,7640,590,7.1
+Mono County,County,2015,Annual,N,Final,8240,7740,510,6.1
+Mono County,County,2016,Annual,N,Final,7920,7480,440,5.6
+Mono County,County,2017,Annual,N,Final,8040,7660,370,4.7
+Mono County,County,2018,Annual,N,Final,7940,7610,330,4.2
+Mono County,County,2019,Annual,N,Final,7990,7680,310,3.9
+Mono County,County,2020,Annual,N,Final,7390,6460,940,12.7
+Mono County,County,2021,Annual,N,Final,7800,7250,560,7.1
+Mono County,County,2022,Annual,N,Final,8100,7780,320,3.9
+Mono County,County,2023,Annual,N,Final,8450,8120,330,3.9
+Mono County,County,2024,Annual,N,Final,8210,7860,350,4.2
+Monterey County,County,1990,Annual,N,Final,172900,156200,16700,9.7
+Monterey County,County,1991,Annual,N,Final,171600,152000,19600,11.4
+Monterey County,County,1992,Annual,N,Final,177200,155000,22100,12.5
+Monterey County,County,1993,Annual,N,Final,176700,153600,23100,13.1
+Monterey County,County,1994,Annual,N,Final,174700,153000,21800,12.5
+Monterey County,County,1995,Annual,N,Final,174400,152800,21600,12.4
+Monterey County,County,1996,Annual,N,Final,177700,157500,20200,11.4
+Monterey County,County,1997,Annual,N,Final,181800,161800,20000,11.0
+Monterey County,County,1998,Annual,N,Final,184100,164300,19800,10.8
+Monterey County,County,1999,Annual,N,Final,187600,169400,18200,9.7
+Monterey County,County,2000,Annual,N,Final,203300,188500,14900,7.3
+Monterey County,County,2001,Annual,N,Final,204900,188800,16100,7.8
+Monterey County,County,2002,Annual,N,Final,208300,189600,18800,9.0
+Monterey County,County,2003,Annual,N,Final,209500,190500,18900,9.0
+Monterey County,County,2004,Annual,N,Final,208000,190800,17200,8.3
+Monterey County,County,2005,Annual,N,Final,207800,192700,15100,7.3
+Monterey County,County,2006,Annual,N,Final,204700,190600,14100,6.9
+Monterey County,County,2007,Annual,N,Final,207500,192800,14700,7.1
+Monterey County,County,2008,Annual,N,Final,214200,196100,18100,8.4
+Monterey County,County,2009,Annual,N,Final,218100,192100,26000,11.9
+Monterey County,County,2010,Annual,N,Final,216100,188300,27800,12.9
+Monterey County,County,2011,Annual,N,Final,215700,188400,27300,12.7
+Monterey County,County,2012,Annual,N,Final,217200,192000,25200,11.6
+Monterey County,County,2013,Annual,N,Final,215800,193400,22500,10.4
+Monterey County,County,2014,Annual,N,Final,217600,197600,20000,9.2
+Monterey County,County,2015,Annual,N,Final,218300,200600,17800,8.1
+Monterey County,County,2016,Annual,N,Final,216700,199800,16900,7.8
+Monterey County,County,2017,Annual,N,Final,217400,201500,15900,7.3
+Monterey County,County,2018,Annual,N,Final,219500,205300,14200,6.5
+Monterey County,County,2019,Annual,N,Final,219100,205000,14100,6.4
+Monterey County,County,2020,Annual,N,Final,211900,188100,23900,11.3
+Monterey County,County,2021,Annual,N,Final,209800,192100,17600,8.4
+Monterey County,County,2022,Annual,N,Final,215300,202000,13300,6.2
+Monterey County,County,2023,Annual,N,Final,216600,201400,15200,7.0
+Monterey County,County,2024,Annual,N,Final,221200,205100,16100,7.3
+Napa County,County,1990,Annual,N,Final,56500,54100,2300,4.1
+Napa County,County,1991,Annual,N,Final,55300,52000,3200,5.8
+Napa County,County,1992,Annual,N,Final,57500,53400,4200,7.2
+Napa County,County,1993,Annual,N,Final,57900,53400,4600,7.9
+Napa County,County,1994,Annual,N,Final,57700,53700,4000,7.0
+Napa County,County,1995,Annual,N,Final,57200,53700,3600,6.2
+Napa County,County,1996,Annual,N,Final,58000,54500,3500,6.1
+Napa County,County,1997,Annual,N,Final,59200,56100,3100,5.2
+Napa County,County,1998,Annual,N,Final,60500,58100,2400,4.0
+Napa County,County,1999,Annual,N,Final,62200,60100,2100,3.3
+Napa County,County,2000,Annual,N,Final,66700,64300,2400,3.6
+Napa County,County,2001,Annual,N,Final,70500,67900,2600,3.6
+Napa County,County,2002,Annual,N,Final,71300,68000,3300,4.6
+Napa County,County,2003,Annual,N,Final,70900,67400,3500,4.9
+Napa County,County,2004,Annual,N,Final,71400,68100,3400,4.7
+Napa County,County,2005,Annual,N,Final,71800,68600,3100,4.4
+Napa County,County,2006,Annual,N,Final,72300,69500,2800,3.8
+Napa County,County,2007,Annual,N,Final,74000,71000,3000,4.0
+Napa County,County,2008,Annual,N,Final,76300,72400,3900,5.1
+Napa County,County,2009,Annual,N,Final,76400,69800,6600,8.7
+Napa County,County,2010,Annual,N,Final,70300,63000,7300,10.4
+Napa County,County,2011,Annual,N,Final,70500,63600,6900,9.8
+Napa County,County,2012,Annual,N,Final,71600,65500,6100,8.5
+Napa County,County,2013,Annual,N,Final,72600,67500,5100,7.0
+Napa County,County,2014,Annual,N,Final,73300,69100,4200,5.8
+Napa County,County,2015,Annual,N,Final,73800,70300,3400,4.6
+Napa County,County,2016,Annual,N,Final,73100,70000,3200,4.3
+Napa County,County,2017,Annual,N,Final,73600,70900,2700,3.7
+Napa County,County,2018,Annual,N,Final,74200,72000,2200,3.0
+Napa County,County,2019,Annual,N,Final,73800,71700,2100,2.9
+Napa County,County,2020,Annual,N,Final,69300,63100,6100,8.9
+Napa County,County,2021,Annual,N,Final,68800,64600,4200,6.1
+Napa County,County,2022,Annual,N,Final,71000,68700,2300,3.2
+Napa County,County,2023,Annual,N,Final,73000,70500,2500,3.4
+Napa County,County,2024,Annual,N,Final,74400,71500,2900,3.9
+Nevada County,County,1990,Annual,N,Final,36060,34330,1730,4.8
+Nevada County,County,1991,Annual,N,Final,38430,35900,2520,6.6
+Nevada County,County,1992,Annual,N,Final,39590,36220,3370,8.5
+Nevada County,County,1993,Annual,N,Final,40190,36790,3400,8.5
+Nevada County,County,1994,Annual,N,Final,40930,37850,3080,7.5
+Nevada County,County,1995,Annual,N,Final,40090,37050,3040,7.6
+Nevada County,County,1996,Annual,N,Final,40160,37360,2810,7.0
+Nevada County,County,1997,Annual,N,Final,40770,38240,2530,6.2
+Nevada County,County,1998,Annual,N,Final,42670,40350,2320,5.4
+Nevada County,County,1999,Annual,N,Final,43530,41740,1790,4.1
+Nevada County,County,2000,Annual,N,Final,45500,43630,1870,4.1
+Nevada County,County,2001,Annual,N,Final,46960,44890,2070,4.4
+Nevada County,County,2002,Annual,N,Final,48460,45880,2580,5.3
+Nevada County,County,2003,Annual,N,Final,48430,45700,2730,5.6
+Nevada County,County,2004,Annual,N,Final,48880,46290,2590,5.3
+Nevada County,County,2005,Annual,N,Final,49540,47170,2360,4.8
+Nevada County,County,2006,Annual,N,Final,50010,47830,2180,4.4
+Nevada County,County,2007,Annual,N,Final,50620,48210,2410,4.8
+Nevada County,County,2008,Annual,N,Final,50870,47520,3350,6.6
+Nevada County,County,2009,Annual,N,Final,51000,45570,5430,10.6
+Nevada County,County,2010,Annual,N,Final,48960,43170,5790,11.8
+Nevada County,County,2011,Annual,N,Final,48840,43420,5420,11.1
+Nevada County,County,2012,Annual,N,Final,48230,43510,4720,9.8
+Nevada County,County,2013,Annual,N,Final,48040,44110,3930,8.2
+Nevada County,County,2014,Annual,N,Final,47800,44630,3170,6.6
+Nevada County,County,2015,Annual,N,Final,48030,45410,2610,5.4
+Nevada County,County,2016,Annual,N,Final,45350,43020,2330,5.1
+Nevada County,County,2017,Annual,N,Final,45520,43500,2020,4.4
+Nevada County,County,2018,Annual,N,Final,45690,43970,1720,3.8
+Nevada County,County,2019,Annual,N,Final,45590,43930,1650,3.6
+Nevada County,County,2020,Annual,N,Final,44110,40310,3800,8.6
+Nevada County,County,2021,Annual,N,Final,44620,41920,2710,6.1
+Nevada County,County,2022,Annual,N,Final,45390,43690,1700,3.8
+Nevada County,County,2023,Annual,N,Final,46420,44510,1910,4.1
+Nevada County,County,2024,Annual,N,Final,47700,45550,2150,4.5
+Orange County,County,1990,Annual,N,Final,1354300,1307000,47300,3.5
+Orange County,County,1991,Annual,N,Final,1320300,1249900,70300,5.3
+Orange County,County,1992,Annual,N,Final,1330600,1241200,89400,6.7
+Orange County,County,1993,Annual,N,Final,1326400,1235900,90500,6.8
+Orange County,County,1994,Annual,N,Final,1331400,1254500,77000,5.8
+Orange County,County,1995,Annual,N,Final,1319400,1252400,67000,5.1
+Orange County,County,1996,Annual,N,Final,1333800,1277600,56100,4.2
+Orange County,County,1997,Annual,N,Final,1373800,1328200,45600,3.3
+Orange County,County,1998,Annual,N,Final,1426000,1384600,41300,2.9
+Orange County,County,1999,Annual,N,Final,1460500,1421300,39200,2.7
+Orange County,County,2000,Annual,N,Final,1482500,1430800,51700,3.5
+Orange County,County,2001,Annual,N,Final,1513600,1453400,60200,4.0
+Orange County,County,2002,Annual,N,Final,1528100,1451500,76600,5.0
+Orange County,County,2003,Annual,N,Final,1550400,1475700,74700,4.8
+Orange County,County,2004,Annual,N,Final,1575000,1508200,66800,4.2
+Orange County,County,2005,Annual,N,Final,1595600,1536000,59600,3.7
+Orange County,County,2006,Annual,N,Final,1610700,1556000,54600,3.4
+Orange County,County,2007,Annual,N,Final,1622300,1559600,62600,3.9
+Orange County,County,2008,Annual,N,Final,1632200,1545500,86600,5.3
+Orange County,County,2009,Annual,N,Final,1607800,1463500,144300,9.0
+Orange County,County,2010,Annual,N,Final,1538800,1387200,151600,9.9
+Orange County,County,2011,Annual,N,Final,1541000,1400800,140200,9.1
+Orange County,County,2012,Annual,N,Final,1558000,1434600,123400,7.9
+Orange County,County,2013,Annual,N,Final,1560900,1457000,104000,6.7
+Orange County,County,2014,Annual,N,Final,1567100,1480000,87100,5.6
+Orange County,County,2015,Annual,N,Final,1585000,1513900,71100,4.5
+Orange County,County,2016,Annual,N,Final,1613000,1547900,65100,4.0
+Orange County,County,2017,Annual,N,Final,1622500,1565400,57000,3.5
+Orange County,County,2018,Annual,N,Final,1629500,1581400,48100,3.0
+Orange County,County,2019,Annual,N,Final,1629000,1583100,45900,2.8
+Orange County,County,2020,Annual,N,Final,1575300,1436000,139300,8.8
+Orange County,County,2021,Annual,N,Final,1569400,1476000,93400,6.0
+Orange County,County,2022,Annual,N,Final,1593400,1542300,51100,3.2
+Orange County,County,2023,Annual,N,Final,1611700,1555700,56000,3.5
+Orange County,County,2024,Annual,N,Final,1623300,1559600,63600,3.9
+Placer County,County,1990,Annual,N,Final,89600,85800,3800,4.2
+Placer County,County,1991,Annual,N,Final,91200,85200,6000,6.5
+Placer County,County,1992,Annual,N,Final,93500,85500,8000,8.5
+Placer County,County,1993,Annual,N,Final,93100,85600,7600,8.1
+Placer County,County,1994,Annual,N,Final,98400,91800,6600,6.7
+Placer County,County,1995,Annual,N,Final,101900,95600,6300,6.2
+Placer County,County,1996,Annual,N,Final,105800,100100,5800,5.5
+Placer County,County,1997,Annual,N,Final,109800,104600,5100,4.7
+Placer County,County,1998,Annual,N,Final,113300,108600,4600,4.1
+Placer County,County,1999,Annual,N,Final,119900,116000,3900,3.3
+Placer County,County,2000,Annual,N,Final,132200,127500,4700,3.6
+Placer County,County,2001,Annual,N,Final,139100,133500,5600,4.0
+Placer County,County,2002,Annual,N,Final,146500,139200,7300,5.0
+Placer County,County,2003,Annual,N,Final,153200,145300,7900,5.1
+Placer County,County,2004,Annual,N,Final,159100,151500,7600,4.8
+Placer County,County,2005,Annual,N,Final,165300,158200,7100,4.3
+Placer County,County,2006,Annual,N,Final,170200,163100,7100,4.2
+Placer County,County,2007,Annual,N,Final,174200,165900,8300,4.7
+Placer County,County,2008,Annual,N,Final,178800,167200,11600,6.5
+Placer County,County,2009,Annual,N,Final,181900,162700,19200,10.6
+Placer County,County,2010,Annual,N,Final,173500,153200,20300,11.7
+Placer County,County,2011,Annual,N,Final,173100,154300,18800,10.9
+Placer County,County,2012,Annual,N,Final,174400,158000,16400,9.4
+Placer County,County,2013,Annual,N,Final,175300,161700,13700,7.8
+Placer County,County,2014,Annual,N,Final,175300,164200,11100,6.3
+Placer County,County,2015,Annual,N,Final,176400,167500,9000,5.1
+Placer County,County,2016,Annual,N,Final,178600,170500,8100,4.5
+Placer County,County,2017,Annual,N,Final,180900,173800,7100,3.9
+Placer County,County,2018,Annual,N,Final,184700,178700,6000,3.2
+Placer County,County,2019,Annual,N,Final,187700,181800,5900,3.2
+Placer County,County,2020,Annual,N,Final,185700,171800,13900,7.5
+Placer County,County,2021,Annual,N,Final,190000,180200,9700,5.1
+Placer County,County,2022,Annual,N,Final,195200,189100,6100,3.1
+Placer County,County,2023,Annual,N,Final,201700,194400,7400,3.6
+Placer County,County,2024,Annual,N,Final,204800,196300,8400,4.1
+Plumas County,County,1990,Annual,N,Final,9480,8540,940,9.9
+Plumas County,County,1991,Annual,N,Final,9670,8600,1080,11.1
+Plumas County,County,1992,Annual,N,Final,9680,8320,1360,14.1
+Plumas County,County,1993,Annual,N,Final,9670,8210,1470,15.1
+Plumas County,County,1994,Annual,N,Final,9980,8540,1440,14.4
+Plumas County,County,1995,Annual,N,Final,9730,8440,1290,13.2
+Plumas County,County,1996,Annual,N,Final,9910,8690,1220,12.3
+Plumas County,County,1997,Annual,N,Final,9850,8800,1050,10.6
+Plumas County,County,1998,Annual,N,Final,9680,8680,1000,10.3
+Plumas County,County,1999,Annual,N,Final,9430,8580,860,9.1
+Plumas County,County,2000,Annual,N,Final,9770,9080,690,7.1
+Plumas County,County,2001,Annual,N,Final,9960,9200,760,7.6
+Plumas County,County,2002,Annual,N,Final,10230,9370,870,8.5
+Plumas County,County,2003,Annual,N,Final,10480,9440,1040,9.9
+Plumas County,County,2004,Annual,N,Final,10440,9410,1020,9.8
+Plumas County,County,2005,Annual,N,Final,10190,9340,860,8.4
+Plumas County,County,2006,Annual,N,Final,10170,9390,780,7.6
+Plumas County,County,2007,Annual,N,Final,10050,9190,850,8.5
+Plumas County,County,2008,Annual,N,Final,9910,8860,1050,10.5
+Plumas County,County,2009,Annual,N,Final,10160,8540,1620,15.9
+Plumas County,County,2010,Annual,N,Final,9170,7480,1690,18.4
+Plumas County,County,2011,Annual,N,Final,8860,7300,1560,17.6
+Plumas County,County,2012,Annual,N,Final,8460,7090,1370,16.2
+Plumas County,County,2013,Annual,N,Final,8240,7090,1150,13.9
+Plumas County,County,2014,Annual,N,Final,8100,7150,950,11.7
+Plumas County,County,2015,Annual,N,Final,7890,7080,810,10.3
+Plumas County,County,2016,Annual,N,Final,7930,7160,770,9.7
+Plumas County,County,2017,Annual,N,Final,7850,7150,700,8.9
+Plumas County,County,2018,Annual,N,Final,7900,7300,600,7.5
+Plumas County,County,2019,Annual,N,Final,7990,7370,620,7.7
+Plumas County,County,2020,Annual,N,Final,7710,6870,840,10.9
+Plumas County,County,2021,Annual,N,Final,7560,6850,710,9.4
+Plumas County,County,2022,Annual,N,Final,7450,6960,490,6.6
+Plumas County,County,2023,Annual,N,Final,7570,7040,530,7.0
+Plumas County,County,2024,Annual,N,Final,7820,7260,560,7.1
+Riverside County,County,1990,Annual,N,Final,537100,498600,38500,7.2
+Riverside County,County,1991,Annual,N,Final,550800,494600,56100,10.2
+Riverside County,County,1992,Annual,N,Final,576200,507500,68700,11.9
+Riverside County,County,1993,Annual,N,Final,581800,511200,70600,12.1
+Riverside County,County,1994,Annual,N,Final,596500,532700,63800,10.7
+Riverside County,County,1995,Annual,N,Final,606500,549000,57500,9.5
+Riverside County,County,1996,Annual,N,Final,613400,561900,51500,8.4
+Riverside County,County,1997,Annual,N,Final,638100,589600,48600,7.6
+Riverside County,County,1998,Annual,N,Final,659600,615600,44000,6.7
+Riverside County,County,1999,Annual,N,Final,691300,653200,38100,5.5
+Riverside County,County,2000,Annual,N,Final,681200,645000,36300,5.3
+Riverside County,County,2001,Annual,N,Final,711300,672000,39300,5.5
+Riverside County,County,2002,Annual,N,Final,748100,699400,48700,6.5
+Riverside County,County,2003,Annual,N,Final,778500,727300,51200,6.6
+Riverside County,County,2004,Annual,N,Final,820800,771700,49100,6.0
+Riverside County,County,2005,Annual,N,Final,857800,811900,45900,5.4
+Riverside County,County,2006,Annual,N,Final,888300,843700,44600,5.0
+Riverside County,County,2007,Annual,N,Final,910900,856400,54600,6.0
+Riverside County,County,2008,Annual,N,Final,920900,842000,78900,8.6
+Riverside County,County,2009,Annual,N,Final,928100,802300,125800,13.6
+Riverside County,County,2010,Annual,N,Final,977800,841100,136600,14.0
+Riverside County,County,2011,Annual,N,Final,974800,846200,128500,13.2
+Riverside County,County,2012,Annual,N,Final,984400,869400,115000,11.7
+Riverside County,County,2013,Annual,N,Final,993900,894500,99400,10.0
+Riverside County,County,2014,Annual,N,Final,1010300,926400,83900,8.3
+Riverside County,County,2015,Annual,N,Final,1033900,964400,69500,6.7
+Riverside County,County,2016,Annual,N,Final,1027800,963700,64100,6.2
+Riverside County,County,2017,Annual,N,Final,1047600,991400,56200,5.4
+Riverside County,County,2018,Annual,N,Final,1066300,1018300,48000,4.5
+Riverside County,County,2019,Annual,N,Final,1084000,1037800,46200,4.3
+Riverside County,County,2020,Annual,N,Final,1100500,988600,111900,10.2
+Riverside County,County,2021,Annual,N,Final,1119000,1036100,82900,7.4
+Riverside County,County,2022,Annual,N,Final,1140400,1091800,48700,4.3
+Riverside County,County,2023,Annual,N,Final,1165500,1110100,55400,4.8
+Riverside County,County,2024,Annual,N,Final,1181300,1118600,62700,5.3
+Sacramento County,County,1990,Annual,N,Final,522800,498800,23900,4.6
+Sacramento County,County,1991,Annual,N,Final,527900,492500,35400,6.7
+Sacramento County,County,1992,Annual,N,Final,528900,484900,44100,8.3
+Sacramento County,County,1993,Annual,N,Final,529400,485200,44200,8.4
+Sacramento County,County,1994,Annual,N,Final,532000,493200,38800,7.3
+Sacramento County,County,1995,Annual,N,Final,534100,497700,36400,6.8
+Sacramento County,County,1996,Annual,N,Final,539400,505800,33600,6.2
+Sacramento County,County,1997,Annual,N,Final,550500,519700,30800,5.6
+Sacramento County,County,1998,Annual,N,Final,565100,536800,28300,5.0
+Sacramento County,County,1999,Annual,N,Final,581900,557100,24800,4.3
+Sacramento County,County,2000,Annual,N,Final,609300,583100,26200,4.3
+Sacramento County,County,2001,Annual,N,Final,624800,596400,28400,4.5
+Sacramento County,County,2002,Annual,N,Final,643600,606900,36600,5.7
+Sacramento County,County,2003,Annual,N,Final,654300,615400,38800,5.9
+Sacramento County,County,2004,Annual,N,Final,661600,624500,37100,5.6
+Sacramento County,County,2005,Annual,N,Final,668400,635400,33000,4.9
+Sacramento County,County,2006,Annual,N,Final,674200,642200,32000,4.7
+Sacramento County,County,2007,Annual,N,Final,682500,645700,36800,5.4
+Sacramento County,County,2008,Annual,N,Final,686400,636800,49600,7.2
+Sacramento County,County,2009,Annual,N,Final,689700,611000,78700,11.4
+Sacramento County,County,2010,Annual,N,Final,684000,596900,87100,12.7
+Sacramento County,County,2011,Annual,N,Final,677400,595300,82100,12.1
+Sacramento County,County,2012,Annual,N,Final,679400,607700,71700,10.6
+Sacramento County,County,2013,Annual,N,Final,678400,617600,60800,9.0
+Sacramento County,County,2014,Annual,N,Final,678400,628300,50200,7.4
+Sacramento County,County,2015,Annual,N,Final,684900,643700,41200,6.0
+Sacramento County,County,2016,Annual,N,Final,725900,687900,37900,5.2
+Sacramento County,County,2017,Annual,N,Final,730900,697800,33000,4.5
+Sacramento County,County,2018,Annual,N,Final,737600,710000,27600,3.7
+Sacramento County,County,2019,Annual,N,Final,743500,716800,26700,3.6
+Sacramento County,County,2020,Annual,N,Final,741200,674000,67200,9.1
+Sacramento County,County,2021,Annual,N,Final,746900,696700,50200,6.7
+Sacramento County,County,2022,Annual,N,Final,749300,720100,29200,3.9
+Sacramento County,County,2023,Annual,N,Final,763600,730900,32700,4.3
+Sacramento County,County,2024,Annual,N,Final,774700,738200,36500,4.7
+San Benito County,County,1990,Annual,N,Final,21000,18400,2500,12.2
+San Benito County,County,1991,Annual,N,Final,21300,17800,3500,16.2
+San Benito County,County,1992,Annual,N,Final,21900,18100,3800,17.4
+San Benito County,County,1993,Annual,N,Final,22200,18700,3600,16.1
+San Benito County,County,1994,Annual,N,Final,22300,19200,3100,14.1
+San Benito County,County,1995,Annual,N,Final,22900,19800,3100,13.6
+San Benito County,County,1996,Annual,N,Final,24700,21800,3000,12.0
+San Benito County,County,1997,Annual,N,Final,26100,23200,2900,11.2
+San Benito County,County,1998,Annual,N,Final,26100,23400,2800,10.6
+San Benito County,County,1999,Annual,N,Final,26200,24100,2100,8.1
+San Benito County,County,2000,Annual,N,Final,27500,25800,1600,6.0
+San Benito County,County,2001,Annual,N,Final,27500,25700,1800,6.4
+San Benito County,County,2002,Annual,N,Final,26300,24000,2400,8.9
+San Benito County,County,2003,Annual,N,Final,25600,23000,2600,10.1
+San Benito County,County,2004,Annual,N,Final,25200,22800,2400,9.6
+San Benito County,County,2005,Annual,N,Final,24600,22700,2000,8.0
+San Benito County,County,2006,Annual,N,Final,24400,22600,1700,7.1
+San Benito County,County,2007,Annual,N,Final,24200,22500,1700,7.2
+San Benito County,County,2008,Annual,N,Final,25100,22700,2400,9.7
+San Benito County,County,2009,Annual,N,Final,25200,21600,3600,14.4
+San Benito County,County,2010,Annual,N,Final,28000,23700,4300,15.3
+San Benito County,County,2011,Annual,N,Final,28200,24100,4100,14.5
+San Benito County,County,2012,Annual,N,Final,28600,24900,3700,13.1
+San Benito County,County,2013,Annual,N,Final,28800,25600,3200,11.2
+San Benito County,County,2014,Annual,N,Final,29200,26400,2800,9.4
+San Benito County,County,2015,Annual,N,Final,29800,27500,2300,7.6
+San Benito County,County,2016,Annual,N,Final,29900,27800,2000,6.8
+San Benito County,County,2017,Annual,N,Final,30200,28400,1800,5.9
+San Benito County,County,2018,Annual,N,Final,30700,29100,1600,5.2
+San Benito County,County,2019,Annual,N,Final,31700,30100,1600,5.1
+San Benito County,County,2020,Annual,N,Final,31900,28700,3200,10.1
+San Benito County,County,2021,Annual,N,Final,32700,30300,2300,7.2
+San Benito County,County,2022,Annual,N,Final,33800,32100,1700,5.0
+San Benito County,County,2023,Annual,N,Final,34300,32300,2000,5.7
+San Benito County,County,2024,Annual,N,Final,34400,32200,2200,6.3
+San Bernardino County,County,1990,Annual,N,Final,635800,600000,35800,5.6
+San Bernardino County,County,1991,Annual,N,Final,645300,591400,53900,8.3
+San Bernardino County,County,1992,Annual,N,Final,668700,604000,64600,9.7
+San Bernardino County,County,1993,Annual,N,Final,675600,608400,67100,9.9
+San Bernardino County,County,1994,Annual,N,Final,669900,611400,58500,8.7
+San Bernardino County,County,1995,Annual,N,Final,674800,621500,53300,7.9
+San Bernardino County,County,1996,Annual,N,Final,683900,633000,50900,7.4
+San Bernardino County,County,1997,Annual,N,Final,704100,658600,45500,6.5
+San Bernardino County,County,1998,Annual,N,Final,720500,679800,40800,5.7
+San Bernardino County,County,1999,Annual,N,Final,748800,712200,36500,4.9
+San Bernardino County,County,2000,Annual,N,Final,740000,704800,35100,4.7
+San Bernardino County,County,2001,Annual,N,Final,763400,724500,38900,5.1
+San Bernardino County,County,2002,Annual,N,Final,788600,740600,48000,6.1
+San Bernardino County,County,2003,Annual,N,Final,804900,754000,50900,6.3
+San Bernardino County,County,2004,Annual,N,Final,832300,784500,47900,5.8
+San Bernardino County,County,2005,Annual,N,Final,856700,812200,44500,5.2
+San Bernardino County,County,2006,Annual,N,Final,866900,825300,41600,4.8
+San Bernardino County,County,2007,Annual,N,Final,870700,822300,48400,5.6
+San Bernardino County,County,2008,Annual,N,Final,871000,801100,69900,8.0
+San Bernardino County,County,2009,Annual,N,Final,869100,755200,113800,13.1
+San Bernardino County,County,2010,Annual,N,Final,891500,769800,121700,13.7
+San Bernardino County,County,2011,Annual,N,Final,885100,771100,114000,12.9
+San Bernardino County,County,2012,Annual,N,Final,889800,787900,101900,11.5
+San Bernardino County,County,2013,Annual,N,Final,894400,806100,88200,9.9
+San Bernardino County,County,2014,Annual,N,Final,904600,831300,73300,8.1
+San Bernardino County,County,2015,Annual,N,Final,919700,860200,59400,6.5
+San Bernardino County,County,2016,Annual,N,Final,918300,864400,53900,5.9
+San Bernardino County,County,2017,Annual,N,Final,933600,886900,46800,5.0
+San Bernardino County,County,2018,Annual,N,Final,948300,909100,39200,4.1
+San Bernardino County,County,2019,Annual,N,Final,962500,925100,37400,3.9
+San Bernardino County,County,2020,Annual,N,Final,972900,879600,93200,9.6
+San Bernardino County,County,2021,Annual,N,Final,989400,915500,73900,7.5
+San Bernardino County,County,2022,Annual,N,Final,1000100,958100,42000,4.2
+San Bernardino County,County,2023,Annual,N,Final,1014800,967900,46800,4.6
+San Bernardino County,County,2024,Annual,N,Final,1027800,975200,52600,5.1
+San Diego County,County,1990,Annual,N,Final,1216200,1160000,56200,4.6
+San Diego County,County,1991,Annual,N,Final,1208500,1131700,76700,6.3
+San Diego County,County,1992,Annual,N,Final,1213400,1124900,88600,7.3
+San Diego County,County,1993,Annual,N,Final,1217600,1122100,95400,7.8
+San Diego County,County,1994,Annual,N,Final,1225000,1137500,87500,7.1
+San Diego County,County,1995,Annual,N,Final,1223100,1145300,77800,6.4
+San Diego County,County,1996,Annual,N,Final,1235800,1169000,66800,5.4
+San Diego County,County,1997,Annual,N,Final,1274900,1220100,54900,4.3
+San Diego County,County,1998,Annual,N,Final,1312700,1266400,46300,3.5
+San Diego County,County,1999,Annual,N,Final,1351300,1309100,42200,3.1
+San Diego County,County,2000,Annual,N,Final,1377200,1323800,53400,3.9
+San Diego County,County,2001,Annual,N,Final,1410000,1350700,59300,4.2
+San Diego County,County,2002,Annual,N,Final,1446000,1371100,74900,5.2
+San Diego County,County,2003,Annual,N,Final,1462000,1385300,76700,5.2
+San Diego County,County,2004,Annual,N,Final,1484100,1414100,70000,4.7
+San Diego County,County,2005,Annual,N,Final,1498900,1434500,64400,4.3
+San Diego County,County,2006,Annual,N,Final,1508200,1448500,59700,4.0
+San Diego County,County,2007,Annual,N,Final,1530500,1461300,69200,4.5
+San Diego County,County,2008,Annual,N,Final,1561800,1467700,94100,6.0
+San Diego County,County,2009,Annual,N,Final,1572900,1419800,153100,9.7
+San Diego County,County,2010,Annual,N,Final,1516600,1352000,164600,10.9
+San Diego County,County,2011,Annual,N,Final,1518600,1361800,156900,10.3
+San Diego County,County,2012,Annual,N,Final,1536200,1395400,140800,9.2
+San Diego County,County,2013,Annual,N,Final,1539000,1417200,121800,7.9
+San Diego County,County,2014,Annual,N,Final,1539200,1438900,100300,6.5
+San Diego County,County,2015,Annual,N,Final,1549500,1468500,80900,5.2
+San Diego County,County,2016,Annual,N,Final,1593700,1519600,74000,4.6
+San Diego County,County,2017,Annual,N,Final,1602000,1538600,63400,4.0
+San Diego County,County,2018,Annual,N,Final,1609000,1556100,52900,3.3
+San Diego County,County,2019,Annual,N,Final,1611200,1560000,51200,3.2
+San Diego County,County,2020,Annual,N,Final,1569600,1425300,144300,9.2
+San Diego County,County,2021,Annual,N,Final,1571300,1471300,100000,6.4
+San Diego County,County,2022,Annual,N,Final,1609800,1554700,55100,3.4
+San Diego County,County,2023,Annual,N,Final,1636700,1575700,61000,3.7
+San Diego County,County,2024,Annual,N,Final,1648500,1577300,71200,4.3
+San Francisco County,County,1990,Annual,N,Final,409800,394300,15400,3.8
+San Francisco County,County,1991,Annual,N,Final,405500,383600,21900,5.4
+San Francisco County,County,1992,Annual,N,Final,404800,376900,27800,6.9
+San Francisco County,County,1993,Annual,N,Final,406000,377200,28800,7.1
+San Francisco County,County,1994,Annual,N,Final,401400,375400,26000,6.5
+San Francisco County,County,1995,Annual,N,Final,394700,370800,23900,6.1
+San Francisco County,County,1996,Annual,N,Final,397700,378400,19300,4.8
+San Francisco County,County,1997,Annual,N,Final,408300,391500,16800,4.1
+San Francisco County,County,1998,Annual,N,Final,414500,399200,15300,3.7
+San Francisco County,County,1999,Annual,N,Final,417700,404900,12900,3.1
+San Francisco County,County,2000,Annual,N,Final,473200,457200,16000,3.4
+San Francisco County,County,2001,Annual,N,Final,469600,445600,24000,5.1
+San Francisco County,County,2002,Annual,N,Final,449200,417800,31400,7.0
+San Francisco County,County,2003,Annual,N,Final,430700,401500,29300,6.8
+San Francisco County,County,2004,Annual,N,Final,420100,395800,24200,5.8
+San Francisco County,County,2005,Annual,N,Final,415900,395200,20700,5.0
+San Francisco County,County,2006,Annual,N,Final,419100,401500,17600,4.2
+San Francisco County,County,2007,Annual,N,Final,436900,418500,18400,4.2
+San Francisco County,County,2008,Annual,N,Final,461700,437500,24200,5.2
+San Francisco County,County,2009,Annual,N,Final,464800,423000,41800,9.0
+San Francisco County,County,2010,Annual,N,Final,486200,442600,43600,9.0
+San Francisco County,County,2011,Annual,N,Final,492700,453000,39600,8.0
+San Francisco County,County,2012,Annual,N,Final,507900,473400,34500,6.8
+San Francisco County,County,2013,Annual,N,Final,514700,486400,28400,5.5
+San Francisco County,County,2014,Annual,N,Final,527900,504500,23400,4.4
+San Francisco County,County,2015,Annual,N,Final,541700,521900,19800,3.7
+San Francisco County,County,2016,Annual,N,Final,512900,494500,18400,3.6
+San Francisco County,County,2017,Annual,N,Final,519700,503100,16600,3.2
+San Francisco County,County,2018,Annual,N,Final,527100,513500,13600,2.6
+San Francisco County,County,2019,Annual,N,Final,538600,525800,12900,2.4
+San Francisco County,County,2020,Annual,N,Final,518700,474500,44200,8.5
+San Francisco County,County,2021,Annual,N,Final,497100,469800,27300,5.5
+San Francisco County,County,2022,Annual,N,Final,517200,502900,14300,2.8
+San Francisco County,County,2023,Annual,N,Final,517200,499500,17700,3.4
+San Francisco County,County,2024,Annual,N,Final,510400,490600,19800,3.9
+San Joaquin County,County,1990,Annual,N,Final,227300,204700,22500,9.9
+San Joaquin County,County,1991,Annual,N,Final,231800,203600,28100,12.1
+San Joaquin County,County,1992,Annual,N,Final,239500,205500,34000,14.2
+San Joaquin County,County,1993,Annual,N,Final,241700,207500,34200,14.2
+San Joaquin County,County,1994,Annual,N,Final,239900,208900,31000,12.9
+San Joaquin County,County,1995,Annual,N,Final,239900,210400,29500,12.3
+San Joaquin County,County,1996,Annual,N,Final,240100,212600,27500,11.4
+San Joaquin County,County,1997,Annual,N,Final,244500,218000,26500,10.8
+San Joaquin County,County,1998,Annual,N,Final,247200,220900,26200,10.6
+San Joaquin County,County,1999,Annual,N,Final,250200,228000,22200,8.9
+San Joaquin County,County,2000,Annual,N,Final,259100,241200,17900,6.9
+San Joaquin County,County,2001,Annual,N,Final,266400,246400,20000,7.5
+San Joaquin County,County,2002,Annual,N,Final,274900,250400,24500,8.9
+San Joaquin County,County,2003,Annual,N,Final,279900,254000,25900,9.3
+San Joaquin County,County,2004,Annual,N,Final,282500,257800,24600,8.7
+San Joaquin County,County,2005,Annual,N,Final,285300,262900,22400,7.9
+San Joaquin County,County,2006,Annual,N,Final,285900,264700,21200,7.4
+San Joaquin County,County,2007,Annual,N,Final,291400,268000,23400,8.0
+San Joaquin County,County,2008,Annual,N,Final,295800,265000,30800,10.4
+San Joaquin County,County,2009,Annual,N,Final,302000,255400,46700,15.4
+San Joaquin County,County,2010,Annual,N,Final,312000,259900,52000,16.7
+San Joaquin County,County,2011,Annual,N,Final,310200,260000,50200,16.2
+San Joaquin County,County,2012,Annual,N,Final,311000,266200,44800,14.4
+San Joaquin County,County,2013,Annual,N,Final,312400,273600,38800,12.4
+San Joaquin County,County,2014,Annual,N,Final,311900,278600,33300,10.7
+San Joaquin County,County,2015,Annual,N,Final,314500,286400,28100,8.9
+San Joaquin County,County,2016,Annual,N,Final,331500,305400,26100,7.9
+San Joaquin County,County,2017,Annual,N,Final,336700,313900,22800,6.8
+San Joaquin County,County,2018,Annual,N,Final,338100,318300,19900,5.9
+San Joaquin County,County,2019,Annual,N,Final,340700,321100,19600,5.7
+San Joaquin County,County,2020,Annual,N,Final,347200,308800,38400,11.1
+San Joaquin County,County,2021,Annual,N,Final,349400,320300,29100,8.3
+San Joaquin County,County,2022,Annual,N,Final,356700,338200,18500,5.2
+San Joaquin County,County,2023,Annual,N,Final,363400,341600,21700,6.0
+San Joaquin County,County,2024,Annual,N,Final,368500,344700,23800,6.5
+San Luis Obispo County,County,1990,Annual,N,Final,99900,95200,4600,4.6
+San Luis Obispo County,County,1991,Annual,N,Final,96300,90400,5900,6.1
+San Luis Obispo County,County,1992,Annual,N,Final,99600,92100,7500,7.5
+San Luis Obispo County,County,1993,Annual,N,Final,101200,92900,8300,8.2
+San Luis Obispo County,County,1994,Annual,N,Final,99700,92400,7200,7.3
+San Luis Obispo County,County,1995,Annual,N,Final,100700,94100,6600,6.6
+San Luis Obispo County,County,1996,Annual,N,Final,102000,96200,5800,5.7
+San Luis Obispo County,County,1997,Annual,N,Final,105300,100300,5000,4.8
+San Luis Obispo County,County,1998,Annual,N,Final,108200,103600,4500,4.2
+San Luis Obispo County,County,1999,Annual,N,Final,111200,107600,3600,3.3
+San Luis Obispo County,County,2000,Annual,N,Final,122600,117700,4900,4.0
+San Luis Obispo County,County,2001,Annual,N,Final,126200,121100,5100,4.0
+San Luis Obispo County,County,2002,Annual,N,Final,128600,122600,6000,4.7
+San Luis Obispo County,County,2003,Annual,N,Final,128300,122200,6100,4.8
+San Luis Obispo County,County,2004,Annual,N,Final,130000,124100,5900,4.6
+San Luis Obispo County,County,2005,Annual,N,Final,132300,126700,5600,4.3
+San Luis Obispo County,County,2006,Annual,N,Final,133400,128200,5200,3.9
+San Luis Obispo County,County,2007,Annual,N,Final,135400,129600,5800,4.3
+San Luis Obispo County,County,2008,Annual,N,Final,137800,129900,8000,5.8
+San Luis Obispo County,County,2009,Annual,N,Final,138000,125400,12600,9.1
+San Luis Obispo County,County,2010,Annual,N,Final,133700,120200,13500,10.1
+San Luis Obispo County,County,2011,Annual,N,Final,133800,121000,12800,9.6
+San Luis Obispo County,County,2012,Annual,N,Final,137000,125600,11300,8.3
+San Luis Obispo County,County,2013,Annual,N,Final,137900,128400,9500,6.9
+San Luis Obispo County,County,2014,Annual,N,Final,140100,132200,7900,5.7
+San Luis Obispo County,County,2015,Annual,N,Final,139000,132400,6600,4.7
+San Luis Obispo County,County,2016,Annual,N,Final,134500,128400,6100,4.5
+San Luis Obispo County,County,2017,Annual,N,Final,135400,130300,5100,3.8
+San Luis Obispo County,County,2018,Annual,N,Final,134900,130600,4200,3.1
+San Luis Obispo County,County,2019,Annual,N,Final,134800,130700,4100,3.0
+San Luis Obispo County,County,2020,Annual,N,Final,129300,118800,10500,8.1
+San Luis Obispo County,County,2021,Annual,N,Final,130000,122900,7200,5.5
+San Luis Obispo County,County,2022,Annual,N,Final,131100,126900,4200,3.2
+San Luis Obispo County,County,2023,Annual,N,Final,132500,127700,4700,3.6
+San Luis Obispo County,County,2024,Annual,N,Final,132300,126900,5400,4.1
+San Mateo County,County,1990,Annual,N,Final,370600,360900,9700,2.6
+San Mateo County,County,1991,Annual,N,Final,367000,352200,14700,4.0
+San Mateo County,County,1992,Annual,N,Final,368100,349200,18900,5.1
+San Mateo County,County,1993,Annual,N,Final,368200,349400,18800,5.1
+San Mateo County,County,1994,Annual,N,Final,369100,351600,17500,4.7
+San Mateo County,County,1995,Annual,N,Final,366600,351100,15500,4.2
+San Mateo County,County,1996,Annual,N,Final,374200,361300,12900,3.4
+San Mateo County,County,1997,Annual,N,Final,384100,373600,10500,2.7
+San Mateo County,County,1998,Annual,N,Final,391600,381900,9600,2.5
+San Mateo County,County,1999,Annual,N,Final,395200,387400,7900,2.0
+San Mateo County,County,2000,Annual,N,Final,398600,387200,11300,2.8
+San Mateo County,County,2001,Annual,N,Final,392900,377900,15100,3.8
+San Mateo County,County,2002,Annual,N,Final,378600,357000,21600,5.7
+San Mateo County,County,2003,Annual,N,Final,368000,346400,21600,5.9
+San Mateo County,County,2004,Annual,N,Final,362800,345300,17600,4.8
+San Mateo County,County,2005,Annual,N,Final,362500,347100,15300,4.2
+San Mateo County,County,2006,Annual,N,Final,366900,353500,13400,3.7
+San Mateo County,County,2007,Annual,N,Final,373200,359100,14100,3.8
+San Mateo County,County,2008,Annual,N,Final,376200,357800,18400,4.9
+San Mateo County,County,2009,Annual,N,Final,378500,346300,32200,8.5
+San Mateo County,County,2010,Annual,N,Final,393200,360100,33100,8.4
+San Mateo County,County,2011,Annual,N,Final,398300,368400,29900,7.5
+San Mateo County,County,2012,Annual,N,Final,410900,384400,26400,6.4
+San Mateo County,County,2013,Annual,N,Final,416800,394700,22100,5.3
+San Mateo County,County,2014,Annual,N,Final,426300,408100,18200,4.3
+San Mateo County,County,2015,Annual,N,Final,434400,419600,14900,3.4
+San Mateo County,County,2016,Annual,N,Final,412200,398600,13600,3.3
+San Mateo County,County,2017,Annual,N,Final,415300,403000,12200,2.9
+San Mateo County,County,2018,Annual,N,Final,420200,410100,10100,2.4
+San Mateo County,County,2019,Annual,N,Final,427800,418300,9500,2.2
+San Mateo County,County,2020,Annual,N,Final,409900,379600,30300,7.4
+San Mateo County,County,2021,Annual,N,Final,410500,390700,19900,4.8
+San Mateo County,County,2022,Annual,N,Final,425400,414500,10900,2.6
+San Mateo County,County,2023,Annual,N,Final,422700,409600,13100,3.1
+San Mateo County,County,2024,Annual,N,Final,417300,402200,15100,3.6
+Santa Barbara County,County,1990,Annual,N,Final,192700,183300,9400,4.9
+Santa Barbara County,County,1991,Annual,N,Final,195100,183400,11700,6.0
+Santa Barbara County,County,1992,Annual,N,Final,193000,178600,14400,7.5
+Santa Barbara County,County,1993,Annual,N,Final,192800,177900,14900,7.8
+Santa Barbara County,County,1994,Annual,N,Final,195000,180800,14200,7.3
+Santa Barbara County,County,1995,Annual,N,Final,191400,178600,12900,6.7
+Santa Barbara County,County,1996,Annual,N,Final,190200,179100,11100,5.9
+Santa Barbara County,County,1997,Annual,N,Final,194100,184200,9900,5.1
+Santa Barbara County,County,1998,Annual,N,Final,194700,186000,8600,4.4
+Santa Barbara County,County,1999,Annual,N,Final,197600,189900,7800,3.9
+Santa Barbara County,County,2000,Annual,N,Final,202600,193800,8800,4.3
+Santa Barbara County,County,2001,Annual,N,Final,203100,194100,9000,4.4
+Santa Barbara County,County,2002,Annual,N,Final,205600,194900,10700,5.2
+Santa Barbara County,County,2003,Annual,N,Final,208500,197900,10600,5.1
+Santa Barbara County,County,2004,Annual,N,Final,211800,201800,10000,4.7
+Santa Barbara County,County,2005,Annual,N,Final,214500,205200,9300,4.3
+Santa Barbara County,County,2006,Annual,N,Final,212600,204000,8600,4.0
+Santa Barbara County,County,2007,Annual,N,Final,215600,206300,9300,4.3
+Santa Barbara County,County,2008,Annual,N,Final,220300,208300,12100,5.5
+Santa Barbara County,County,2009,Annual,N,Final,222500,203500,19000,8.5
+Santa Barbara County,County,2010,Annual,N,Final,212400,191600,20800,9.8
+Santa Barbara County,County,2011,Annual,N,Final,212200,192300,19900,9.4
+Santa Barbara County,County,2012,Annual,N,Final,215400,197300,18100,8.4
+Santa Barbara County,County,2013,Annual,N,Final,216700,200900,15800,7.3
+Santa Barbara County,County,2014,Annual,N,Final,217600,204100,13500,6.2
+Santa Barbara County,County,2015,Annual,N,Final,217300,205700,11500,5.3
+Santa Barbara County,County,2016,Annual,N,Final,218100,207200,11000,5.0
+Santa Barbara County,County,2017,Annual,N,Final,217400,207600,9800,4.5
+Santa Barbara County,County,2018,Annual,N,Final,219400,210900,8500,3.9
+Santa Barbara County,County,2019,Annual,N,Final,221400,213300,8100,3.7
+Santa Barbara County,County,2020,Annual,N,Final,216100,198300,17700,8.2
+Santa Barbara County,County,2021,Annual,N,Final,215200,202700,12500,5.8
+Santa Barbara County,County,2022,Annual,N,Final,217900,210000,7900,3.6
+Santa Barbara County,County,2023,Annual,N,Final,220000,211100,8900,4.0
+Santa Barbara County,County,2024,Annual,N,Final,221300,211400,9900,4.5
+Santa Clara County,County,1990,Annual,N,Final,853200,819400,33800,4.0
+Santa Clara County,County,1991,Annual,N,Final,842700,794000,48600,5.8
+Santa Clara County,County,1992,Annual,N,Final,846600,788300,58400,6.9
+Santa Clara County,County,1993,Annual,N,Final,846500,787700,58800,6.9
+Santa Clara County,County,1994,Annual,N,Final,850700,796600,54000,6.4
+Santa Clara County,County,1995,Annual,N,Final,859400,817000,42300,4.9
+Santa Clara County,County,1996,Annual,N,Final,890700,857800,32900,3.7
+Santa Clara County,County,1997,Annual,N,Final,929900,901300,28700,3.1
+Santa Clara County,County,1998,Annual,N,Final,952800,921900,30900,3.2
+Santa Clara County,County,1999,Annual,N,Final,958200,928800,29400,3.1
+Santa Clara County,County,2000,Annual,N,Final,941600,912700,28900,3.1
+Santa Clara County,County,2001,Annual,N,Final,939800,891900,48000,5.1
+Santa Clara County,County,2002,Annual,N,Final,889000,814100,74900,8.4
+Santa Clara County,County,2003,Annual,N,Final,846800,775600,71200,8.4
+Santa Clara County,County,2004,Annual,N,Final,824700,771800,52900,6.4
+Santa Clara County,County,2005,Annual,N,Final,820300,776800,43500,5.3
+Santa Clara County,County,2006,Annual,N,Final,828200,791200,37000,4.5
+Santa Clara County,County,2007,Annual,N,Final,851800,812200,39700,4.7
+Santa Clara County,County,2008,Annual,N,Final,877900,825100,52800,6.0
+Santa Clara County,County,2009,Annual,N,Final,885900,788700,97100,11.0
+Santa Clara County,County,2010,Annual,N,Final,927400,830000,97400,10.5
+Santa Clara County,County,2011,Annual,N,Final,936100,849000,87100,9.3
+Santa Clara County,County,2012,Annual,N,Final,955700,880100,75600,7.9
+Santa Clara County,County,2013,Annual,N,Final,969100,905800,63300,6.5
+Santa Clara County,County,2014,Annual,N,Final,988700,937000,51600,5.2
+Santa Clara County,County,2015,Annual,N,Final,1012700,970500,42200,4.2
+Santa Clara County,County,2016,Annual,N,Final,1013200,973900,39300,3.9
+Santa Clara County,County,2017,Annual,N,Final,1021800,987900,34000,3.3
+Santa Clara County,County,2018,Annual,N,Final,1023300,995500,27800,2.7
+Santa Clara County,County,2019,Annual,N,Final,1028000,1001300,26700,2.6
+Santa Clara County,County,2020,Annual,N,Final,1002000,929100,72900,7.3
+Santa Clara County,County,2021,Annual,N,Final,987300,938600,48700,4.9
+Santa Clara County,County,2022,Annual,N,Final,1009200,981200,28100,2.8
+Santa Clara County,County,2023,Annual,N,Final,1021900,985800,36200,3.5
+Santa Clara County,County,2024,Annual,N,Final,1023200,980900,42300,4.1
+Santa Cruz County,County,1990,Annual,N,Final,135800,126000,9800,7.2
+Santa Cruz County,County,1991,Annual,N,Final,137400,125100,12300,9.0
+Santa Cruz County,County,1992,Annual,N,Final,139000,125400,13600,9.8
+Santa Cruz County,County,1993,Annual,N,Final,140300,125600,14700,10.5
+Santa Cruz County,County,1994,Annual,N,Final,140500,126700,13800,9.9
+Santa Cruz County,County,1995,Annual,N,Final,138500,125600,12900,9.3
+Santa Cruz County,County,1996,Annual,N,Final,138200,126400,11900,8.6
+Santa Cruz County,County,1997,Annual,N,Final,140700,129500,11100,7.9
+Santa Cruz County,County,1998,Annual,N,Final,140400,130100,10300,7.3
+Santa Cruz County,County,1999,Annual,N,Final,138800,129900,8900,6.4
+Santa Cruz County,County,2000,Annual,N,Final,148500,141000,7500,5.1
+Santa Cruz County,County,2001,Annual,N,Final,150400,141700,8600,5.7
+Santa Cruz County,County,2002,Annual,N,Final,147800,136800,11000,7.4
+Santa Cruz County,County,2003,Annual,N,Final,144700,133300,11300,7.8
+Santa Cruz County,County,2004,Annual,N,Final,144000,133900,10100,7.0
+Santa Cruz County,County,2005,Annual,N,Final,143900,134900,9000,6.3
+Santa Cruz County,County,2006,Annual,N,Final,144200,136100,8100,5.6
+Santa Cruz County,County,2007,Annual,N,Final,146100,137600,8600,5.9
+Santa Cruz County,County,2008,Annual,N,Final,147600,136700,10900,7.4
+Santa Cruz County,County,2009,Annual,N,Final,149500,132400,17200,11.5
+Santa Cruz County,County,2010,Annual,N,Final,141900,122800,19000,13.4
+Santa Cruz County,County,2011,Annual,N,Final,140800,122400,18400,13.1
+Santa Cruz County,County,2012,Annual,N,Final,141700,124900,16800,11.9
+Santa Cruz County,County,2013,Annual,N,Final,141700,127000,14700,10.4
+Santa Cruz County,County,2014,Annual,N,Final,142200,129600,12600,8.9
+Santa Cruz County,County,2015,Annual,N,Final,143300,132500,10800,7.5
+Santa Cruz County,County,2016,Annual,N,Final,145300,135200,10000,6.9
+Santa Cruz County,County,2017,Annual,N,Final,144200,136000,8200,5.7
+Santa Cruz County,County,2018,Annual,N,Final,142500,135500,7000,4.9
+Santa Cruz County,County,2019,Annual,N,Final,142500,135600,6900,4.9
+Santa Cruz County,County,2020,Annual,N,Final,135700,122700,13000,9.6
+Santa Cruz County,County,2021,Annual,N,Final,133000,124000,8900,6.7
+Santa Cruz County,County,2022,Annual,N,Final,133900,127500,6400,4.8
+Santa Cruz County,County,2023,Annual,N,Final,135100,127700,7500,5.5
+Santa Cruz County,County,2024,Annual,N,Final,136100,128000,8100,5.9
+Shasta County,County,1990,Annual,N,Final,67800,61900,5800,8.6
+Shasta County,County,1991,Annual,N,Final,68300,60800,7500,11.0
+Shasta County,County,1992,Annual,N,Final,72900,63300,9600,13.2
+Shasta County,County,1993,Annual,N,Final,73100,63900,9200,12.6
+Shasta County,County,1994,Annual,N,Final,72500,63600,8800,12.2
+Shasta County,County,1995,Annual,N,Final,72000,63800,8200,11.3
+Shasta County,County,1996,Annual,N,Final,71800,64600,7300,10.1
+Shasta County,County,1997,Annual,N,Final,72600,65900,6700,9.3
+Shasta County,County,1998,Annual,N,Final,72100,65600,6500,9.1
+Shasta County,County,1999,Annual,N,Final,72200,67000,5100,7.1
+Shasta County,County,2000,Annual,N,Final,74900,70400,4500,6.0
+Shasta County,County,2001,Annual,N,Final,77700,72700,4900,6.4
+Shasta County,County,2002,Annual,N,Final,81500,75600,5900,7.2
+Shasta County,County,2003,Annual,N,Final,82700,76400,6300,7.6
+Shasta County,County,2004,Annual,N,Final,82700,76500,6300,7.6
+Shasta County,County,2005,Annual,N,Final,82200,76300,5900,7.2
+Shasta County,County,2006,Annual,N,Final,83100,77600,5500,6.6
+Shasta County,County,2007,Annual,N,Final,83300,77100,6200,7.4
+Shasta County,County,2008,Annual,N,Final,83400,75000,8400,10.1
+Shasta County,County,2009,Annual,N,Final,85100,72500,12600,14.8
+Shasta County,County,2010,Annual,N,Final,78600,65300,13300,16.9
+Shasta County,County,2011,Annual,N,Final,76800,64500,12200,16.0
+Shasta County,County,2012,Annual,N,Final,75800,65000,10800,14.2
+Shasta County,County,2013,Annual,N,Final,75100,66100,9000,11.9
+Shasta County,County,2014,Annual,N,Final,74800,67500,7300,9.7
+Shasta County,County,2015,Annual,N,Final,74100,68400,5800,7.8
+Shasta County,County,2016,Annual,N,Final,76400,71200,5200,6.8
+Shasta County,County,2017,Annual,N,Final,76200,71800,4300,5.7
+Shasta County,County,2018,Annual,N,Final,76000,72300,3700,4.9
+Shasta County,County,2019,Annual,N,Final,76300,72800,3500,4.6
+Shasta County,County,2020,Annual,N,Final,76600,70100,6500,8.5
+Shasta County,County,2021,Annual,N,Final,76300,71200,5100,6.6
+Shasta County,County,2022,Annual,N,Final,76200,72800,3400,4.5
+Shasta County,County,2023,Annual,N,Final,78000,74200,3800,4.8
+Shasta County,County,2024,Annual,N,Final,79300,75000,4200,5.3
+Sierra County,County,1990,Annual,N,Final,1630,1450,180,10.9
+Sierra County,County,1991,Annual,N,Final,1650,1470,180,10.9
+Sierra County,County,1992,Annual,N,Final,1710,1520,190,11.2
+Sierra County,County,1993,Annual,N,Final,1810,1610,200,11.1
+Sierra County,County,1994,Annual,N,Final,1780,1590,180,10.2
+Sierra County,County,1995,Annual,N,Final,1690,1530,160,9.7
+Sierra County,County,1996,Annual,N,Final,1730,1530,200,11.3
+Sierra County,County,1997,Annual,N,Final,1720,1540,180,10.5
+Sierra County,County,1998,Annual,N,Final,1630,1440,190,11.8
+Sierra County,County,1999,Annual,N,Final,1620,1470,150,9.2
+Sierra County,County,2000,Annual,N,Final,1800,1700,100,5.8
+Sierra County,County,2001,Annual,N,Final,1670,1540,130,7.5
+Sierra County,County,2002,Annual,N,Final,1650,1500,140,8.7
+Sierra County,County,2003,Annual,N,Final,1640,1490,160,9.4
+Sierra County,County,2004,Annual,N,Final,1590,1430,150,9.7
+Sierra County,County,2005,Annual,N,Final,1590,1460,130,8.3
+Sierra County,County,2006,Annual,N,Final,1600,1480,120,7.4
+Sierra County,County,2007,Annual,N,Final,1630,1500,130,7.9
+Sierra County,County,2008,Annual,N,Final,1610,1440,170,10.6
+Sierra County,County,2009,Annual,N,Final,1620,1370,250,15.4
+Sierra County,County,2010,Annual,N,Final,1610,1360,250,15.4
+Sierra County,County,2011,Annual,N,Final,1600,1360,240,14.9
+Sierra County,County,2012,Annual,N,Final,1470,1250,210,14.4
+Sierra County,County,2013,Annual,N,Final,1450,1260,190,12.8
+Sierra County,County,2014,Annual,N,Final,1410,1270,140,10.2
+Sierra County,County,2015,Annual,N,Final,1360,1240,120,8.7
+Sierra County,County,2016,Annual,N,Final,1360,1250,100,7.7
+Sierra County,County,2017,Annual,N,Final,1290,1210,90,6.7
+Sierra County,County,2018,Annual,N,Final,1270,1190,80,6.2
+Sierra County,County,2019,Annual,N,Final,1330,1260,70,5.5
+Sierra County,County,2020,Annual,N,Final,1290,1180,110,8.4
+Sierra County,County,2021,Annual,N,Final,1300,1220,80,6.3
+Sierra County,County,2022,Annual,N,Final,1290,1230,60,4.5
+Sierra County,County,2023,Annual,N,Final,1310,1240,70,5.0
+Sierra County,County,2024,Annual,N,Final,1360,1290,70,5.4
+Siskiyou County,County,1990,Annual,N,Final,19460,17080,2370,12.2
+Siskiyou County,County,1991,Annual,N,Final,19160,16610,2550,13.3
+Siskiyou County,County,1992,Annual,N,Final,19410,16350,3070,15.8
+Siskiyou County,County,1993,Annual,N,Final,19300,16300,3000,15.5
+Siskiyou County,County,1994,Annual,N,Final,19380,16650,2730,14.1
+Siskiyou County,County,1995,Annual,N,Final,18830,16130,2700,14.3
+Siskiyou County,County,1996,Annual,N,Final,18610,16040,2570,13.8
+Siskiyou County,County,1997,Annual,N,Final,18540,16270,2260,12.2
+Siskiyou County,County,1998,Annual,N,Final,18330,16010,2310,12.6
+Siskiyou County,County,1999,Annual,N,Final,17590,15750,1840,10.4
+Siskiyou County,County,2000,Annual,N,Final,19160,17730,1430,7.5
+Siskiyou County,County,2001,Annual,N,Final,18980,17450,1540,8.1
+Siskiyou County,County,2002,Annual,N,Final,19040,17330,1720,9.0
+Siskiyou County,County,2003,Annual,N,Final,19290,17440,1850,9.6
+Siskiyou County,County,2004,Annual,N,Final,19050,17240,1800,9.5
+Siskiyou County,County,2005,Annual,N,Final,18760,17070,1690,9.0
+Siskiyou County,County,2006,Annual,N,Final,18740,17250,1500,8.0
+Siskiyou County,County,2007,Annual,N,Final,18970,17370,1600,8.4
+Siskiyou County,County,2008,Annual,N,Final,19400,17420,1980,10.2
+Siskiyou County,County,2009,Annual,N,Final,19900,16970,2930,14.7
+Siskiyou County,County,2010,Annual,N,Final,19660,16320,3340,17.0
+Siskiyou County,County,2011,Annual,N,Final,19360,16070,3290,17.0
+Siskiyou County,County,2012,Annual,N,Final,18830,15880,2950,15.7
+Siskiyou County,County,2013,Annual,N,Final,18250,15830,2420,13.3
+Siskiyou County,County,2014,Annual,N,Final,18000,15980,2020,11.2
+Siskiyou County,County,2015,Annual,N,Final,17890,16210,1680,9.4
+Siskiyou County,County,2016,Annual,N,Final,17170,15640,1530,8.9
+Siskiyou County,County,2017,Annual,N,Final,17080,15770,1310,7.6
+Siskiyou County,County,2018,Annual,N,Final,16640,15460,1180,7.1
+Siskiyou County,County,2019,Annual,N,Final,16480,15350,1130,6.9
+Siskiyou County,County,2020,Annual,N,Final,16300,14600,1700,10.4
+Siskiyou County,County,2021,Annual,N,Final,16020,14650,1360,8.5
+Siskiyou County,County,2022,Annual,N,Final,15900,14930,970,6.1
+Siskiyou County,County,2023,Annual,N,Final,16070,15010,1060,6.6
+Siskiyou County,County,2024,Annual,N,Final,16280,15140,1140,7.0
+Solano County,County,1990,Annual,N,Final,165000,157100,7900,4.8
+Solano County,County,1991,Annual,N,Final,166700,156100,10500,6.3
+Solano County,County,1992,Annual,N,Final,173100,160300,12900,7.4
+Solano County,County,1993,Annual,N,Final,174600,160300,14300,8.2
+Solano County,County,1994,Annual,N,Final,174800,161300,13500,7.7
+Solano County,County,1995,Annual,N,Final,171500,157900,13600,7.9
+Solano County,County,1996,Annual,N,Final,173300,159800,13500,7.8
+Solano County,County,1997,Annual,N,Final,177800,166200,11700,6.6
+Solano County,County,1998,Annual,N,Final,182100,172000,10100,5.6
+Solano County,County,1999,Annual,N,Final,188900,180200,8800,4.6
+Solano County,County,2000,Annual,N,Final,194400,185400,8900,4.6
+Solano County,County,2001,Annual,N,Final,197200,188100,9100,4.6
+Solano County,County,2002,Annual,N,Final,202600,190800,11800,5.8
+Solano County,County,2003,Annual,N,Final,206100,193000,13100,6.3
+Solano County,County,2004,Annual,N,Final,207100,195000,12000,5.8
+Solano County,County,2005,Annual,N,Final,209800,198600,11200,5.3
+Solano County,County,2006,Annual,N,Final,209500,199300,10200,4.9
+Solano County,County,2007,Annual,N,Final,210300,199300,11000,5.2
+Solano County,County,2008,Annual,N,Final,213200,198500,14700,6.9
+Solano County,County,2009,Annual,N,Final,217200,193800,23400,10.8
+Solano County,County,2010,Annual,N,Final,202600,176900,25700,12.7
+Solano County,County,2011,Annual,N,Final,201400,176900,24500,12.2
+Solano County,County,2012,Annual,N,Final,202100,180400,21700,10.7
+Solano County,County,2013,Annual,N,Final,202500,184000,18500,9.2
+Solano County,County,2014,Annual,N,Final,202600,187200,15400,7.6
+Solano County,County,2015,Annual,N,Final,204900,192300,12600,6.1
+Solano County,County,2016,Annual,N,Final,214000,202500,11500,5.4
+Solano County,County,2017,Annual,N,Final,214800,204700,10000,4.7
+Solano County,County,2018,Annual,N,Final,215900,207600,8300,3.8
+Solano County,County,2019,Annual,N,Final,215500,207400,8000,3.7
+Solano County,County,2020,Annual,N,Final,209900,190200,19700,9.4
+Solano County,County,2021,Annual,N,Final,208200,193200,15000,7.2
+Solano County,County,2022,Annual,N,Final,209700,201000,8700,4.1
+Solano County,County,2023,Annual,N,Final,214000,204600,9400,4.4
+Solano County,County,2024,Annual,N,Final,216300,205600,10800,5.0
+Sonoma County,County,1990,Annual,N,Final,206500,198500,8000,3.9
+Sonoma County,County,1991,Annual,N,Final,212100,200200,11900,5.6
+Sonoma County,County,1992,Annual,N,Final,217200,201800,15400,7.1
+Sonoma County,County,1993,Annual,N,Final,220000,205400,14600,6.6
+Sonoma County,County,1994,Annual,N,Final,223600,210400,13200,5.9
+Sonoma County,County,1995,Annual,N,Final,223300,211000,12400,5.5
+Sonoma County,County,1996,Annual,N,Final,228900,218600,10300,4.5
+Sonoma County,County,1997,Annual,N,Final,237700,228600,9100,3.8
+Sonoma County,County,1998,Annual,N,Final,245500,237300,8200,3.3
+Sonoma County,County,1999,Annual,N,Final,248900,242100,6800,2.7
+Sonoma County,County,2000,Annual,N,Final,253500,245100,8400,3.3
+Sonoma County,County,2001,Annual,N,Final,257900,248400,9500,3.7
+Sonoma County,County,2002,Annual,N,Final,257300,244100,13200,5.1
+Sonoma County,County,2003,Annual,N,Final,253700,239800,13900,5.5
+Sonoma County,County,2004,Annual,N,Final,254900,242300,12600,4.9
+Sonoma County,County,2005,Annual,N,Final,255000,243700,11300,4.4
+Sonoma County,County,2006,Annual,N,Final,256000,245800,10200,4.0
+Sonoma County,County,2007,Annual,N,Final,259900,248700,11200,4.3
+Sonoma County,County,2008,Annual,N,Final,262300,247200,15100,5.8
+Sonoma County,County,2009,Annual,N,Final,259600,234300,25300,9.7
+Sonoma County,County,2010,Annual,N,Final,244700,218100,26700,10.9
+Sonoma County,County,2011,Annual,N,Final,245100,220100,25000,10.2
+Sonoma County,County,2012,Annual,N,Final,245600,223700,21800,8.9
+Sonoma County,County,2013,Annual,N,Final,249200,231400,17900,7.2
+Sonoma County,County,2014,Annual,N,Final,255800,241300,14500,5.7
+Sonoma County,County,2015,Annual,N,Final,257800,246200,11600,4.5
+Sonoma County,County,2016,Annual,N,Final,257500,247100,10400,4.0
+Sonoma County,County,2017,Annual,N,Final,258200,249300,8800,3.4
+Sonoma County,County,2018,Annual,N,Final,258200,251000,7200,2.8
+Sonoma County,County,2019,Annual,N,Final,255100,248100,7000,2.7
+Sonoma County,County,2020,Annual,N,Final,243600,223900,19700,8.1
+Sonoma County,County,2021,Annual,N,Final,240900,227500,13500,5.6
+Sonoma County,County,2022,Annual,N,Final,244500,236700,7800,3.2
+Sonoma County,County,2023,Annual,N,Final,246600,237800,8800,3.6
+Sonoma County,County,2024,Annual,N,Final,246600,236500,10200,4.1
+Stanislaus County,County,1990,Annual,N,Final,180600,159200,21400,11.8
+Stanislaus County,County,1991,Annual,N,Final,183700,156300,27400,14.9
+Stanislaus County,County,1992,Annual,N,Final,191900,160100,31800,16.6
+Stanislaus County,County,1993,Annual,N,Final,194000,161300,32700,16.9
+Stanislaus County,County,1994,Annual,N,Final,193300,162400,30900,16.0
+Stanislaus County,County,1995,Annual,N,Final,192100,162300,29700,15.5
+Stanislaus County,County,1996,Annual,N,Final,194600,166500,28100,14.4
+Stanislaus County,County,1997,Annual,N,Final,197900,171600,26300,13.3
+Stanislaus County,County,1998,Annual,N,Final,201400,176700,24700,12.3
+Stanislaus County,County,1999,Annual,N,Final,202200,180600,21500,10.7
+Stanislaus County,County,2000,Annual,N,Final,207900,191800,16000,7.7
+Stanislaus County,County,2001,Annual,N,Final,214400,196400,18000,8.4
+Stanislaus County,County,2002,Annual,N,Final,219700,198300,21400,9.7
+Stanislaus County,County,2003,Annual,N,Final,222600,200400,22200,10.0
+Stanislaus County,County,2004,Annual,N,Final,224500,203800,20700,9.2
+Stanislaus County,County,2005,Annual,N,Final,228000,208900,19100,8.4
+Stanislaus County,County,2006,Annual,N,Final,226100,208100,18000,7.9
+Stanislaus County,County,2007,Annual,N,Final,229100,209300,19700,8.6
+Stanislaus County,County,2008,Annual,N,Final,234100,208200,25900,11.1
+Stanislaus County,County,2009,Annual,N,Final,237800,199700,38100,16.0
+Stanislaus County,County,2010,Annual,N,Final,243700,202100,41600,17.1
+Stanislaus County,County,2011,Annual,N,Final,241400,201600,39800,16.5
+Stanislaus County,County,2012,Annual,N,Final,241300,205300,36100,14.9
+Stanislaus County,County,2013,Annual,N,Final,240400,209000,31400,13.1
+Stanislaus County,County,2014,Annual,N,Final,240500,213300,27200,11.3
+Stanislaus County,County,2015,Annual,N,Final,241100,218100,23000,9.5
+Stanislaus County,County,2016,Annual,N,Final,243600,222500,21000,8.6
+Stanislaus County,County,2017,Annual,N,Final,243500,225300,18300,7.5
+Stanislaus County,County,2018,Annual,N,Final,244400,228700,15800,6.4
+Stanislaus County,County,2019,Annual,N,Final,244500,229600,14900,6.1
+Stanislaus County,County,2020,Annual,N,Final,244300,217900,26400,10.8
+Stanislaus County,County,2021,Annual,N,Final,243000,222900,20100,8.3
+Stanislaus County,County,2022,Annual,N,Final,245100,231700,13300,5.4
+Stanislaus County,County,2023,Annual,N,Final,249300,233600,15700,6.3
+Stanislaus County,County,2024,Annual,N,Final,253600,236200,17500,6.9
+Sutter County,County,1990,Annual,N,Final,33200,28500,4700,14.1
+Sutter County,County,1991,Annual,N,Final,34600,28700,5900,17.1
+Sutter County,County,1992,Annual,N,Final,34100,27400,6700,19.7
+Sutter County,County,1993,Annual,N,Final,34700,28100,6500,18.8
+Sutter County,County,1994,Annual,N,Final,34000,28300,5700,16.8
+Sutter County,County,1995,Annual,N,Final,34200,28400,5900,17.2
+Sutter County,County,1996,Annual,N,Final,34200,28700,5500,16.1
+Sutter County,County,1997,Annual,N,Final,35300,29900,5400,15.2
+Sutter County,County,1998,Annual,N,Final,35400,29900,5500,15.6
+Sutter County,County,1999,Annual,N,Final,35600,30900,4700,13.1
+Sutter County,County,2000,Annual,N,Final,37900,34300,3500,9.3
+Sutter County,County,2001,Annual,N,Final,38500,34700,3800,9.8
+Sutter County,County,2002,Annual,N,Final,39200,34800,4300,11.1
+Sutter County,County,2003,Annual,N,Final,39600,35100,4500,11.3
+Sutter County,County,2004,Annual,N,Final,40200,35900,4300,10.6
+Sutter County,County,2005,Annual,N,Final,40200,36400,3900,9.6
+Sutter County,County,2006,Annual,N,Final,40700,37100,3600,8.9
+Sutter County,County,2007,Annual,N,Final,41400,37400,4000,9.6
+Sutter County,County,2008,Annual,N,Final,41500,36400,5100,12.3
+Sutter County,County,2009,Annual,N,Final,42500,35300,7200,17.0
+Sutter County,County,2010,Annual,N,Final,46100,37500,8500,18.5
+Sutter County,County,2011,Annual,N,Final,45800,37400,8300,18.2
+Sutter County,County,2012,Annual,N,Final,45400,37800,7700,16.9
+Sutter County,County,2013,Annual,N,Final,44700,38100,6600,14.8
+Sutter County,County,2014,Annual,N,Final,44300,38600,5700,12.8
+Sutter County,County,2015,Annual,N,Final,44700,39900,4800,10.7
+Sutter County,County,2016,Annual,N,Final,44000,39600,4400,10.0
+Sutter County,County,2017,Annual,N,Final,44100,40200,4000,9.0
+Sutter County,County,2018,Annual,N,Final,44000,40500,3400,7.8
+Sutter County,County,2019,Annual,N,Final,44600,41200,3400,7.6
+Sutter County,County,2020,Annual,N,Final,44600,39400,5200,11.6
+Sutter County,County,2021,Annual,N,Final,44100,40000,4100,9.3
+Sutter County,County,2022,Annual,N,Final,44400,41300,3100,7.0
+Sutter County,County,2023,Annual,N,Final,44900,41300,3600,8.1
+Sutter County,County,2024,Annual,N,Final,45800,41800,3900,8.6
+Tehama County,County,1990,Annual,N,Final,19940,17950,1990,10.0
+Tehama County,County,1991,Annual,N,Final,21220,18750,2470,11.6
+Tehama County,County,1992,Annual,N,Final,23030,20050,2980,12.9
+Tehama County,County,1993,Annual,N,Final,23300,20230,3070,13.2
+Tehama County,County,1994,Annual,N,Final,23870,21150,2720,11.4
+Tehama County,County,1995,Annual,N,Final,23040,20430,2610,11.3
+Tehama County,County,1996,Annual,N,Final,22860,20400,2460,10.8
+Tehama County,County,1997,Annual,N,Final,24000,21780,2220,9.3
+Tehama County,County,1998,Annual,N,Final,23950,21850,2090,8.7
+Tehama County,County,1999,Annual,N,Final,24160,22520,1640,6.8
+Tehama County,County,2000,Annual,N,Final,23630,22100,1530,6.5
+Tehama County,County,2001,Annual,N,Final,24580,22970,1620,6.6
+Tehama County,County,2002,Annual,N,Final,25560,23700,1850,7.2
+Tehama County,County,2003,Annual,N,Final,25700,23710,1990,7.8
+Tehama County,County,2004,Annual,N,Final,25390,23510,1880,7.4
+Tehama County,County,2005,Annual,N,Final,25350,23620,1740,6.8
+Tehama County,County,2006,Annual,N,Final,25250,23620,1630,6.5
+Tehama County,County,2007,Annual,N,Final,25100,23300,1800,7.2
+Tehama County,County,2008,Annual,N,Final,25410,23070,2340,9.2
+Tehama County,County,2009,Annual,N,Final,25690,22060,3630,14.1
+Tehama County,County,2010,Annual,N,Final,25760,21750,4000,15.6
+Tehama County,County,2011,Annual,N,Final,25480,21660,3820,15.0
+Tehama County,County,2012,Annual,N,Final,25180,21710,3470,13.8
+Tehama County,County,2013,Annual,N,Final,25030,22090,2930,11.7
+Tehama County,County,2014,Annual,N,Final,25070,22630,2440,9.7
+Tehama County,County,2015,Annual,N,Final,25030,23040,1990,7.9
+Tehama County,County,2016,Annual,N,Final,26020,24210,1810,6.9
+Tehama County,County,2017,Annual,N,Final,26480,24830,1650,6.2
+Tehama County,County,2018,Annual,N,Final,26420,24950,1470,5.6
+Tehama County,County,2019,Annual,N,Final,26590,25130,1460,5.5
+Tehama County,County,2020,Annual,N,Final,26620,24290,2330,8.8
+Tehama County,County,2021,Annual,N,Final,26540,24690,1850,7.0
+Tehama County,County,2022,Annual,N,Final,26590,25310,1270,4.8
+Tehama County,County,2023,Annual,N,Final,27210,25700,1510,5.6
+Tehama County,County,2024,Annual,N,Final,27080,25400,1690,6.2
+Trinity County,County,1990,Annual,N,Final,5350,4680,670,12.5
+Trinity County,County,1991,Annual,N,Final,5140,4390,750,14.6
+Trinity County,County,1992,Annual,N,Final,5270,4380,890,16.9
+Trinity County,County,1993,Annual,N,Final,5180,4310,870,16.7
+Trinity County,County,1994,Annual,N,Final,5270,4480,790,15.0
+Trinity County,County,1995,Annual,N,Final,5270,4500,770,14.7
+Trinity County,County,1996,Annual,N,Final,5150,4390,760,14.8
+Trinity County,County,1997,Annual,N,Final,5150,4440,710,13.7
+Trinity County,County,1998,Annual,N,Final,4990,4320,670,13.4
+Trinity County,County,1999,Annual,N,Final,4850,4290,560,11.6
+Trinity County,County,2000,Annual,N,Final,5110,4620,500,9.7
+Trinity County,County,2001,Annual,N,Final,5400,4890,500,9.3
+Trinity County,County,2002,Annual,N,Final,5410,4850,550,10.2
+Trinity County,County,2003,Annual,N,Final,5400,4830,570,10.6
+Trinity County,County,2004,Annual,N,Final,5260,4680,580,11.0
+Trinity County,County,2005,Annual,N,Final,5200,4670,530,10.2
+Trinity County,County,2006,Annual,N,Final,5100,4600,500,9.9
+Trinity County,County,2007,Annual,N,Final,5070,4550,530,10.4
+Trinity County,County,2008,Annual,N,Final,4900,4270,630,12.8
+Trinity County,County,2009,Annual,N,Final,5060,4180,880,17.4
+Trinity County,County,2010,Annual,N,Final,5430,4500,930,17.2
+Trinity County,County,2011,Annual,N,Final,5360,4470,900,16.7
+Trinity County,County,2012,Annual,N,Final,5320,4540,780,14.7
+Trinity County,County,2013,Annual,N,Final,5180,4560,620,12.0
+Trinity County,County,2014,Annual,N,Final,5170,4670,490,9.6
+Trinity County,County,2015,Annual,N,Final,5140,4740,400,7.8
+Trinity County,County,2016,Annual,N,Final,5730,5340,380,6.7
+Trinity County,County,2017,Annual,N,Final,5560,5230,330,5.9
+Trinity County,County,2018,Annual,N,Final,5480,5180,290,5.4
+Trinity County,County,2019,Annual,N,Final,5430,5150,280,5.2
+Trinity County,County,2020,Annual,N,Final,5250,4850,400,7.6
+Trinity County,County,2021,Annual,N,Final,5310,4980,320,6.1
+Trinity County,County,2022,Annual,N,Final,5230,4990,240,4.6
+Trinity County,County,2023,Annual,N,Final,5250,4960,290,5.5
+Trinity County,County,2024,Annual,N,Final,5420,5110,310,5.8
+Tulare County,County,1990,Annual,N,Final,145900,127900,18000,12.3
+Tulare County,County,1991,Annual,N,Final,153200,125100,28100,18.3
+Tulare County,County,1992,Annual,N,Final,154200,127100,27100,17.6
+Tulare County,County,1993,Annual,N,Final,157600,128900,28600,18.2
+Tulare County,County,1994,Annual,N,Final,161300,134700,26600,16.5
+Tulare County,County,1995,Annual,N,Final,159500,132900,26700,16.7
+Tulare County,County,1996,Annual,N,Final,159300,133300,26000,16.3
+Tulare County,County,1997,Annual,N,Final,160100,135400,24700,15.4
+Tulare County,County,1998,Annual,N,Final,162600,137100,25500,15.7
+Tulare County,County,1999,Annual,N,Final,164900,137400,27500,16.7
+Tulare County,County,2000,Annual,N,Final,171900,154200,17700,10.3
+Tulare County,County,2001,Annual,N,Final,175500,155300,20100,11.5
+Tulare County,County,2002,Annual,N,Final,181000,159300,21800,12.0
+Tulare County,County,2003,Annual,N,Final,181900,159400,22500,12.4
+Tulare County,County,2004,Annual,N,Final,180500,159600,20900,11.6
+Tulare County,County,2005,Annual,N,Final,184400,167000,17400,9.4
+Tulare County,County,2006,Annual,N,Final,188900,172900,16000,8.5
+Tulare County,County,2007,Annual,N,Final,193400,175700,17700,9.2
+Tulare County,County,2008,Annual,N,Final,200900,179200,21700,10.8
+Tulare County,County,2009,Annual,N,Final,206000,174400,31600,15.4
+Tulare County,County,2010,Annual,N,Final,203400,168100,35300,17.4
+Tulare County,County,2011,Annual,N,Final,202700,168000,34700,17.1
+Tulare County,County,2012,Annual,N,Final,200800,168200,32600,16.2
+Tulare County,County,2013,Annual,N,Final,200600,171500,29100,14.5
+Tulare County,County,2014,Annual,N,Final,198100,171800,26300,13.3
+Tulare County,County,2015,Annual,N,Final,202200,178600,23600,11.7
+Tulare County,County,2016,Annual,N,Final,205200,182300,22900,11.2
+Tulare County,County,2017,Annual,N,Final,206500,185000,21500,10.4
+Tulare County,County,2018,Annual,N,Final,204800,184900,19900,9.7
+Tulare County,County,2019,Annual,N,Final,204400,184500,19800,9.7
+Tulare County,County,2020,Annual,N,Final,204300,177100,27200,13.3
+Tulare County,County,2021,Annual,N,Final,203000,181500,21400,10.6
+Tulare County,County,2022,Annual,N,Final,209400,192200,17300,8.2
+Tulare County,County,2023,Annual,N,Final,217100,195800,21200,9.8
+Tulare County,County,2024,Annual,N,Final,221000,198100,22800,10.3
+Tuolumne County,County,1990,Annual,N,Final,19890,18550,1340,6.7
+Tuolumne County,County,1991,Annual,N,Final,20040,18280,1760,8.8
+Tuolumne County,County,1992,Annual,N,Final,20760,18400,2360,11.4
+Tuolumne County,County,1993,Annual,N,Final,20610,18150,2460,11.9
+Tuolumne County,County,1994,Annual,N,Final,20970,18620,2340,11.2
+Tuolumne County,County,1995,Annual,N,Final,20110,17920,2190,10.9
+Tuolumne County,County,1996,Annual,N,Final,19530,17520,2020,10.3
+Tuolumne County,County,1997,Annual,N,Final,19700,17960,1740,8.8
+Tuolumne County,County,1998,Annual,N,Final,19540,17970,1560,8.0
+Tuolumne County,County,1999,Annual,N,Final,19830,18510,1310,6.6
+Tuolumne County,County,2000,Annual,N,Final,22910,21570,1340,5.8
+Tuolumne County,County,2001,Annual,N,Final,23970,22560,1410,5.9
+Tuolumne County,County,2002,Annual,N,Final,24810,23150,1660,6.7
+Tuolumne County,County,2003,Annual,N,Final,25380,23580,1800,7.1
+Tuolumne County,County,2004,Annual,N,Final,25650,23870,1770,6.9
+Tuolumne County,County,2005,Annual,N,Final,26140,24460,1680,6.4
+Tuolumne County,County,2006,Annual,N,Final,26010,24510,1500,5.8
+Tuolumne County,County,2007,Annual,N,Final,26030,24430,1600,6.2
+Tuolumne County,County,2008,Annual,N,Final,26030,23950,2080,8.0
+Tuolumne County,County,2009,Annual,N,Final,26060,22780,3280,12.6
+Tuolumne County,County,2010,Annual,N,Final,22650,19170,3480,15.4
+Tuolumne County,County,2011,Annual,N,Final,22640,19360,3280,14.5
+Tuolumne County,County,2012,Annual,N,Final,22260,19360,2900,13.0
+Tuolumne County,County,2013,Annual,N,Final,21700,19340,2360,10.9
+Tuolumne County,County,2014,Annual,N,Final,21560,19670,1890,8.8
+Tuolumne County,County,2015,Annual,N,Final,21540,20020,1520,7.1
+Tuolumne County,County,2016,Annual,N,Final,22140,20770,1370,6.2
+Tuolumne County,County,2017,Annual,N,Final,21950,20770,1180,5.4
+Tuolumne County,County,2018,Annual,N,Final,21740,20730,1000,4.6
+Tuolumne County,County,2019,Annual,N,Final,21500,20530,970,4.5
+Tuolumne County,County,2020,Annual,N,Final,20660,18510,2150,10.4
+Tuolumne County,County,2021,Annual,N,Final,20560,19090,1470,7.2
+Tuolumne County,County,2022,Annual,N,Final,20250,19340,910,4.5
+Tuolumne County,County,2023,Annual,N,Final,20650,19640,1000,4.9
+Tuolumne County,County,2024,Annual,N,Final,21420,20300,1120,5.2
+Ventura County,County,1990,Annual,N,Final,366900,345800,21100,5.8
+Ventura County,County,1991,Annual,N,Final,367000,339000,28000,7.6
+Ventura County,County,1992,Annual,N,Final,373000,339300,33700,9.0
+Ventura County,County,1993,Annual,N,Final,375200,341200,34000,9.1
+Ventura County,County,1994,Annual,N,Final,379800,349500,30300,8.0
+Ventura County,County,1995,Annual,N,Final,378800,350500,28200,7.5
+Ventura County,County,1996,Annual,N,Final,376300,348900,27400,7.3
+Ventura County,County,1997,Annual,N,Final,378600,353400,25200,6.7
+Ventura County,County,1998,Annual,N,Final,385900,364400,21500,5.6
+Ventura County,County,1999,Annual,N,Final,394500,375400,19100,4.8
+Ventura County,County,2000,Annual,N,Final,393000,375400,17600,4.5
+Ventura County,County,2001,Annual,N,Final,399400,380000,19500,4.9
+Ventura County,County,2002,Annual,N,Final,407000,383300,23700,5.8
+Ventura County,County,2003,Annual,N,Final,411000,387000,24000,5.8
+Ventura County,County,2004,Annual,N,Final,413800,391700,22100,5.4
+Ventura County,County,2005,Annual,N,Final,418500,398700,19800,4.7
+Ventura County,County,2006,Annual,N,Final,422900,404800,18200,4.3
+Ventura County,County,2007,Annual,N,Final,427300,406500,20700,4.8
+Ventura County,County,2008,Annual,N,Final,433200,405900,27300,6.3
+Ventura County,County,2009,Annual,N,Final,435500,392000,43500,10.0
+Ventura County,County,2010,Annual,N,Final,430500,383400,47100,10.9
+Ventura County,County,2011,Annual,N,Final,430000,385900,44100,10.3
+Ventura County,County,2012,Annual,N,Final,433500,393900,39600,9.1
+Ventura County,County,2013,Annual,N,Final,432700,398300,34400,8.0
+Ventura County,County,2014,Annual,N,Final,429600,400700,28900,6.7
+Ventura County,County,2015,Annual,N,Final,427400,403200,24200,5.7
+Ventura County,County,2016,Annual,N,Final,425300,403000,22300,5.2
+Ventura County,County,2017,Annual,N,Final,423900,404600,19200,4.5
+Ventura County,County,2018,Annual,N,Final,422500,406300,16200,3.8
+Ventura County,County,2019,Annual,N,Final,421600,406200,15400,3.6
+Ventura County,County,2020,Annual,N,Final,410400,374700,35700,8.7
+Ventura County,County,2021,Annual,N,Final,407500,382200,25300,6.2
+Ventura County,County,2022,Annual,N,Final,412400,397000,15400,3.7
+Ventura County,County,2023,Annual,N,Final,416900,399600,17400,4.2
+Ventura County,County,2024,Annual,N,Final,420800,401400,19400,4.6
+Yolo County,County,1990,Annual,N,Final,74100,69000,5100,6.9
+Yolo County,County,1991,Annual,N,Final,77200,71000,6100,7.9
+Yolo County,County,1992,Annual,N,Final,81900,75000,6800,8.3
+Yolo County,County,1993,Annual,N,Final,82700,76000,6700,8.0
+Yolo County,County,1994,Annual,N,Final,86500,80500,6000,6.9
+Yolo County,County,1995,Annual,N,Final,86500,80600,6000,6.9
+Yolo County,County,1996,Annual,N,Final,86200,80600,5600,6.5
+Yolo County,County,1997,Annual,N,Final,85700,80600,5100,6.0
+Yolo County,County,1998,Annual,N,Final,86800,82100,4700,5.4
+Yolo County,County,1999,Annual,N,Final,90800,86800,4000,4.4
+Yolo County,County,2000,Annual,N,Final,86300,81900,4300,5.0
+Yolo County,County,2001,Annual,N,Final,88400,83800,4500,5.1
+Yolo County,County,2002,Annual,N,Final,90700,85200,5500,6.1
+Yolo County,County,2003,Annual,N,Final,91600,85700,5900,6.4
+Yolo County,County,2004,Annual,N,Final,92300,86700,5600,6.1
+Yolo County,County,2005,Annual,N,Final,92900,87800,5100,5.5
+Yolo County,County,2006,Annual,N,Final,94400,89500,4900,5.2
+Yolo County,County,2007,Annual,N,Final,98500,92900,5600,5.7
+Yolo County,County,2008,Annual,N,Final,99300,92000,7400,7.4
+Yolo County,County,2009,Annual,N,Final,100000,88600,11400,11.4
+Yolo County,County,2010,Annual,N,Final,102300,89800,12500,12.2
+Yolo County,County,2011,Annual,N,Final,101400,89500,11900,11.8
+Yolo County,County,2012,Annual,N,Final,102300,91400,10900,10.7
+Yolo County,County,2013,Annual,N,Final,101600,92300,9200,9.1
+Yolo County,County,2014,Annual,N,Final,102100,94400,7800,7.6
+Yolo County,County,2015,Annual,N,Final,104200,97400,6800,6.5
+Yolo County,County,2016,Annual,N,Final,105100,98900,6200,5.9
+Yolo County,County,2017,Annual,N,Final,105300,99900,5400,5.1
+Yolo County,County,2018,Annual,N,Final,105800,101300,4600,4.3
+Yolo County,County,2019,Annual,N,Final,105700,101300,4400,4.2
+Yolo County,County,2020,Annual,N,Final,102600,94500,8000,7.8
+Yolo County,County,2021,Annual,N,Final,102100,95900,6100,6.0
+Yolo County,County,2022,Annual,N,Final,107700,103200,4500,4.2
+Yolo County,County,2023,Annual,N,Final,109300,104100,5200,4.8
+Yolo County,County,2024,Annual,N,Final,111000,105000,6000,5.4
+Yuba County,County,1990,Annual,N,Final,22200,19800,2400,10.7
+Yuba County,County,1991,Annual,N,Final,22700,19500,3200,14.0
+Yuba County,County,1992,Annual,N,Final,22400,18500,3900,17.5
+Yuba County,County,1993,Annual,N,Final,23000,19000,4000,17.5
+Yuba County,County,1994,Annual,N,Final,22000,18400,3500,16.0
+Yuba County,County,1995,Annual,N,Final,21000,17800,3100,15.0
+Yuba County,County,1996,Annual,N,Final,20900,17900,3000,14.3
+Yuba County,County,1997,Annual,N,Final,20900,18100,2800,13.3
+Yuba County,County,1998,Annual,N,Final,20700,17900,2800,13.6
+Yuba County,County,1999,Annual,N,Final,20500,18100,2400,11.8
+Yuba County,County,2000,Annual,N,Final,24300,22400,1900,7.9
+Yuba County,County,2001,Annual,N,Final,24900,22700,2100,8.6
+Yuba County,County,2002,Annual,N,Final,25100,22600,2500,9.9
+Yuba County,County,2003,Annual,N,Final,25300,22500,2700,10.8
+Yuba County,County,2004,Annual,N,Final,25300,22900,2500,9.7
+Yuba County,County,2005,Annual,N,Final,25800,23500,2300,9.0
+Yuba County,County,2006,Annual,N,Final,26800,24400,2300,8.8
+Yuba County,County,2007,Annual,N,Final,27600,25100,2500,9.2
+Yuba County,County,2008,Annual,N,Final,28000,24600,3300,11.9
+Yuba County,County,2009,Annual,N,Final,28800,23800,5000,17.4
+Yuba County,County,2010,Annual,N,Final,29100,23900,5200,17.9
+Yuba County,County,2011,Annual,N,Final,28800,23900,4900,17.0
+Yuba County,County,2012,Annual,N,Final,28800,24300,4400,15.4
+Yuba County,County,2013,Annual,N,Final,28200,24400,3700,13.3
+Yuba County,County,2014,Annual,N,Final,27900,24700,3200,11.3
+Yuba County,County,2015,Annual,N,Final,27700,25100,2600,9.3
+Yuba County,County,2016,Annual,N,Final,29600,27200,2400,8.2
+Yuba County,County,2017,Annual,N,Final,30200,28000,2200,7.1
+Yuba County,County,2018,Annual,N,Final,30600,28700,1900,6.2
+Yuba County,County,2019,Annual,N,Final,31200,29400,1800,5.9
+Yuba County,County,2020,Annual,N,Final,32100,28900,3300,10.2
+Yuba County,County,2021,Annual,N,Final,32700,30100,2600,8.0
+Yuba County,County,2022,Annual,N,Final,33500,31800,1800,5.3
+Yuba County,County,2023,Annual,N,Final,34700,32600,2200,6.2
+Yuba County,County,2024,Annual,N,Final,35500,33100,2400,6.8
