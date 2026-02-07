@@ -21,6 +21,17 @@ The objective in this project is to analyze how unemployment rates in California
 
 Tools and Technologies: 
 - Python
+- Pandas
+- Matplotlib
 - Jupyter Notebook
 - GitHub
   
+Key Findings: 
+- Major increases in unemployment during times with known recession periods, including the 1990s recession, the Great Recession (2007-2009), and the COVID-19 pandemic. 
+- Counties experienced varying levels of unemployment spikes and recovery speed. 
+- Regions that more centralized towards agriculture, tourism, or construction showed great economic disparity during recessional periods. 
+- Whereas, Regions that have diverse economic backgrounds showed quicker recovery after recession, while lesser economic spike in unemployment. 
+
+Visual Highlights: 
+- Statewide Unemployment Trend: the visualization shows California's overall unemployment rate over time, highlighting significant increases during major recessions.
+- Top 10 Counties by Peak Unemployment: the chart shown ranks counties based on their highest recored unemployment rate, further showing the differences in economic disparity across counties during periods of recession. 
